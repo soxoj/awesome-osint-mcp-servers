@@ -1,4 +1,8 @@
-# Awesome MCP OSINT Servers
+# Awesome OSINT MCP Servers
+
+An MCP (Model Context Protocol) server connects tools and services to LLM-systems like Claude, Cursor, Windsurf, etc. When you request a task through the LLM, the MCP server engages the appropriate tool to perform it automatically.
+
+MCP servers simplify the execution of a large number of OSINT tools, especially console-based ones, by combining it with the ease of querying in LLM and the ability to create flexible reports in LLM output.
 
 ## OSINT Toolkit (Penetration Testing Utilities)
 [OSINT Toolkit](https://www.pulsemcp.com/servers/himanshusanecha-osint-toolkit) - A unified interface for network reconnaissance with parallel execution of OSINT tools including WHOIS, Nmap, DNS lookups, and typosquatting detection for security researchers and network administrators.
