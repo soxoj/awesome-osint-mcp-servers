@@ -9,6 +9,9 @@ MCP servers simplify the execution of a large number of OSINT tools, especially 
 ### Maigret
 [Maigret](https://github.com/BurtTheCoder/mcp-maigret) - A powerful OSINT tool that collects user account information from various public sources
 
+### Xquik
+[Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter OSINT platform — MCP server with user lookup, follower extraction, engagement analysis, account monitoring, giveaway draws.
+
 ## Network Scanning
 
 ### Shodan
