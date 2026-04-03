@@ -6,6 +6,9 @@ MCP servers simplify the execution of a large number of OSINT tools, especially 
 
 ## SOCMINT
 
+### Expose Team
+[Expose Team](https://expose.team?utm_source=github.com&utm_campaign=soxoj_awesome_osint_mcp_servers) – AI-Powered OSINT at Lightspeed.
+
 ### Maigret
 [Maigret](https://github.com/BurtTheCoder/mcp-maigret) - A powerful OSINT tool that collects user account information from various public sources
 
