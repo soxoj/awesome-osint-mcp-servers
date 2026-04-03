@@ -1,38 +1,49 @@
+<div align="center">
+
 # Awesome OSINT MCP Servers
 
-An MCP (Model Context Protocol) server connects tools and services to LLM-systems like Claude, Cursor, Windsurf, etc. When you request a task through the LLM, the MCP server engages the appropriate tool to perform it automatically.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-MCP servers simplify the execution of a large number of OSINT tools, especially console-based ones, by combining it with the ease of querying in LLM and the ability to create flexible reports in LLM output.
+A curated list of MCP servers for OSINT (Open Source Intelligence).
+
+An [MCP](https://modelcontextprotocol.io/) server connects tools and services to LLM systems like Claude, Cursor, Windsurf, etc.\
+MCP servers simplify execution of OSINT tools by combining them with the ease of LLM querying\
+and the ability to create flexible reports.
+
+</div>
+
+---
+
+Legend: 🔓 Open Source &nbsp;&middot;&nbsp; 💰 Paid / Requires Paid API
+
+## Contents
+
+- [SOCMINT](#socmint)
+- [Network Scanning](#network-scanning)
+- [Threat Intelligence](#threat-intelligence)
 
 ## SOCMINT
 
-### Expose Team
-[Expose Team](https://expose.team?utm_source=github.com&utm_campaign=soxoj_awesome_osint_mcp_servers) – AI-Powered OSINT at Lightspeed.
-
-### Maigret
-[Maigret](https://github.com/BurtTheCoder/mcp-maigret) - A powerful OSINT tool that collects user account information from various public sources
-
-### Xquik
-[Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter OSINT platform — MCP server with user lookup, follower extraction, engagement analysis, account monitoring, giveaway draws.
+- 💰 [Expose Team](https://expose.team?utm_source=github.com&utm_campaign=soxoj_awesome_osint_mcp_servers) — AI-powered OSINT at lightspeed. Credit-based plans from $8/month.
+- 🔓 [Maigret](https://github.com/BurtTheCoder/mcp-maigret) — Collect user account information from various public sources by username.
+- 🔓💰 [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) — X/Twitter OSINT platform with user lookup, follower extraction, engagement analysis, account monitoring, and giveaway draws. Requires paid Xquik API.
 
 ## Network Scanning
 
-### Shodan
-[Shodan](https://github.com/BurtTheCoder/mcp-shodan) - A Model Context Protocol (MCP) server for querying the Shodan API and Shodan CVEDB. This server provides comprehensive access to Shodan's network intelligence and security services, including IP reconnaissance, DNS operations, vulnerability tracking, and device discovery.
+- 🔓💰 [Shodan](https://github.com/BurtTheCoder/mcp-shodan) — Query the Shodan API and CVEDB for IP reconnaissance, DNS operations, vulnerability tracking, and device discovery. Requires Shodan API key.
+- 🔓💰 [ZoomEye](https://github.com/zoomeye-ai/mcp_zoomeye) — Obtain network asset information by querying ZoomEye using dorks and other search parameters. Requires ZoomEye API key.
+- 🔓 [DNSTwist](https://github.com/BurtTheCoder/mcp-dnstwist) — DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
+- 🔓 [OSINT Toolkit](https://www.pulsemcp.com/servers/himanshusanecha-osint-toolkit) — Unified interface for network reconnaissance with parallel execution of WHOIS, Nmap, DNS lookups, and typosquatting detection.
+- 🔓 [ContrastAPI](https://github.com/UPinar/contrastapi) — Security intelligence server with 20 tools: domain recon (DNS, WHOIS, SSL, subdomains), IP reputation, CVE/EPSS lookup, IOC enrichment, phishing URL check, and code security scanning. Free, no API key required.
 
-### ZoomEye
-[ZoomEye](https://github.com/zoomeye-ai/mcp_zoomeye) - A tool to obtain network asset information by querying ZoomEye using dorks and other search parameters.
+## Threat Intelligence
 
-### DNSTwist
-[DNSTwist](https://github.com/BurtTheCoder/mcp-dnstwist) - A powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
+- 🔓 [VirusTotal](https://github.com/BurtTheCoder/mcp-virustotal) — Analyze URLs, files (by hash), IPs, and domains with detailed relationship mapping. Free API tier available, requires `VIRUSTOTAL_API_KEY`.
 
-### OSINT Toolkit
-[OSINT Toolkit](https://www.pulsemcp.com/servers/himanshusanecha-osint-toolkit) - A unified interface for network reconnaissance with parallel execution of OSINT tools including WHOIS, Nmap, DNS lookups, and typosquatting detection for security researchers and network administrators.
+## Contributing
 
-### ContrastAPI
-[ContrastAPI](https://github.com/UPinar/contrastapi) - Security intelligence MCP server with 20 tools: domain recon (DNS, WHOIS, SSL, subdomains), IP reputation, CVE/EPSS lookup, IOC enrichment (ThreatFox, MalwareBazaar), phishing URL check, and code security scanning. Free, no API key required.
+Contributions are welcome! Please open a pull request to add a new OSINT MCP server to the list.
 
-## Other
+## License
 
-### VirusTotal
-[VirusTotal](https://github.com/BurtTheCoder/mcp-virustotal) - Tools to analyze URLs, files (by hash), IP, Domain, and get relationships for detailed analysys.VIRUSTOTAL_API_KEY is needed
+[MIT](LICENSE)
