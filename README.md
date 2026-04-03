@@ -26,6 +26,9 @@ MCP servers simplify the execution of a large number of OSINT tools, especially 
 ### OSINT Toolkit
 [OSINT Toolkit](https://www.pulsemcp.com/servers/himanshusanecha-osint-toolkit) - A unified interface for network reconnaissance with parallel execution of OSINT tools including WHOIS, Nmap, DNS lookups, and typosquatting detection for security researchers and network administrators.
 
+### ContrastAPI
+[ContrastAPI](https://github.com/UPinar/contrastapi) - Security intelligence MCP server with 20 tools: domain recon (DNS, WHOIS, SSL, subdomains), IP reputation, CVE/EPSS lookup, IOC enrichment (ThreatFox, MalwareBazaar), phishing URL check, and code security scanning. Free, no API key required.
+
 ## Other
 
 ### VirusTotal
