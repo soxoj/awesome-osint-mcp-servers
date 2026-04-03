@@ -6,6 +6,9 @@ MCP servers simplify the execution of a large number of OSINT tools, especially 
 
 ## SOCMINT
 
+### Xquik
+[Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X (Twitter) data platform with an MCP server (9 tools), 99 REST API endpoints, and HMAC webhooks. Tweet search, user lookup, follower/following extraction, engagement analytics, trending topics, and more. Pay-per-use reads from $0.00015/call — 33x cheaper than the official X API. MCP endpoint: `https://xquik.com/mcp`
+
 ### Maigret
 [Maigret](https://github.com/BurtTheCoder/mcp-maigret) - A powerful OSINT tool that collects user account information from various public sources
 
