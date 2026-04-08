@@ -35,7 +35,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓💰 [ZoomEye](https://github.com/zoomeye-ai/mcp_zoomeye) — Obtain network asset information by querying ZoomEye using dorks and other search parameters. 7-day free trial available, requires ZoomEye API key.
 - 📦🆓 [DNSTwist](https://github.com/BurtTheCoder/mcp-dnstwist) — DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 - 📦🆓 [OSINT Toolkit](https://www.pulsemcp.com/servers/himanshusanecha-osint-toolkit) — Unified interface for network reconnaissance with parallel execution of WHOIS, Nmap, DNS lookups, and typosquatting detection.
-- 📦🆓 [ContrastAPI](https://github.com/UPinar/contrastapi) — Security intelligence server with 20 tools: domain recon (DNS, WHOIS, SSL, subdomains), IP reputation, CVE/EPSS lookup, IOC enrichment, phishing URL check, and code security scanning. Free, no API key required.
+- 📦🆓💰 [ContrastAPI](https://github.com/UPinar/contrastapi) — Security intelligence server with 25 tools: domain recon (DNS, WHOIS, SSL, subdomains, WAF, Wayback), IP reputation, CVE/EPSS/KEV lookup, IOC enrichment, threat intel, username OSINT, exploit search, and code security scanning. Free tier: 100 req/hr. Pro: 1000 req/hr with API key.
 
 ## Web Scraping
 
