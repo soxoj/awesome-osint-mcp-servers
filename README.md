@@ -46,6 +46,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Company Intelligence
 
 - 📦🆓💰 [CompanyScope](https://github.com/Stewyboy1990/companyscope-mcp) — Company intelligence aggregating data from 8 public sources (Wikipedia, SEC EDGAR, OpenCorporates, RDAP, GitHub, and more) for corporate reconnaissance. Free tier 25 calls/day, pay-per-use tier on Apify.
+- 📦🆓 [StockScope](https://github.com/Stewyboy1990/companyscope-mcp) — SEC EDGAR financial intelligence for stock research. Revenue, net income, margins, filings, and company comparisons for any US public company. Free, no API key needed.
 
 ## Threat Intelligence
 
