@@ -47,6 +47,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 📦🆓💰 [CompanyScope](https://github.com/Stewyboy1990/companyscope-mcp) — Company intelligence aggregating data from 8 public sources (Wikipedia, SEC EDGAR, OpenCorporates, RDAP, GitHub, and more) for corporate reconnaissance. Free tier 25 calls/day, pay-per-use tier on Apify.
 - 📦🆓 [StockScope](https://github.com/Stewyboy1990/companyscope-mcp) — SEC EDGAR financial intelligence for stock research. Revenue, net income, margins, filings, and company comparisons for any US public company. Free, no API key needed.
+- 📦💰 [US Business Data](https://github.com/avabuildsdata/mcp-us-business-data) — Search Secretary of State business registrations across 17 US states, building permits in 400+ cities, and Yellow Pages business leads. Returns entity details, filing status, and registered agents.
 
 ## Threat Intelligence
 
