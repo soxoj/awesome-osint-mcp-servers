@@ -23,6 +23,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - [Web Scraping](#web-scraping)
 - [Company Intelligence](#company-intelligence)
 - [Threat Intelligence](#threat-intelligence)
+- [Meta / Discovery](#meta--discovery)
 
 ## SOCMINT
 
@@ -52,6 +53,10 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Threat Intelligence
 
 - 📦🆓 [VirusTotal](https://github.com/BurtTheCoder/mcp-virustotal) — Analyze URLs, files (by hash), IPs, and domains with detailed relationship mapping. Free API tier available, requires `VIRUSTOTAL_API_KEY`.
+
+## Meta / Discovery
+
+- 🆓 [Not Human Search](https://nothumansearch.ai) — Agent-first discovery engine for MCP servers. Search, score, and live-probe (`verify_mcp`) 8,600+ servers via JSON-RPC or REST API. Useful for pivoting between OSINT MCP tools. MCP: https://nothumansearch.ai/mcp
 
 ## Contributing
 
