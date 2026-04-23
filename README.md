@@ -65,3 +65,5 @@ Contributions are welcome! Please open a pull request to add a new OSINT MCP ser
 ## License
 
 [MIT](LICENSE)
+
+- [google-maps-scraper-mcp](https://github.com/khadinakbaronline/google-maps-scraper-mcp) — Google Maps MCP — scrape B2B leads, emails, phones, ratings and reviews inside any AI agent.
