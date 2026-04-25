@@ -29,7 +29,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 💰 [Expose Team](https://expose.team?utm_source=github.com&utm_campaign=soxoj_awesome_osint_mcp_servers) — AI-powered OSINT at lightspeed. Credit-based plans from $8/month.
 - 📦🆓 [Maigret](https://github.com/BurtTheCoder/mcp-maigret) — Collect user account information from various public sources by username.
-- 📦💰 [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) — X (Twitter) data extraction and automation with 40+ REST API endpoints, real-time account monitoring, and trending topics. MCP server with API key auth.
+- 📦💰 [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) — X (Twitter) OSINT skill for AI coding agents: tweet search, user lookup, follower/following extraction, engagement metrics (likes, retweets, quoters), reply trees, trending topics, communities, and Spaces metadata. 111 REST endpoints, 23 bulk extraction tools, MCP server, and HMAC webhooks for continuous monitoring. Pay-per-use from $0.00015/call, no subscription required.
 
 ## Network Scanning
 
