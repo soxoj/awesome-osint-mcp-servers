@@ -37,7 +37,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓💰 [ZoomEye](https://github.com/zoomeye-ai/mcp_zoomeye) — Obtain network asset information by querying ZoomEye using dorks and other search parameters. 7-day free trial available, requires ZoomEye API key.
 - 📦🆓 [DNSTwist](https://github.com/BurtTheCoder/mcp-dnstwist) — DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 - 📦🆓 [OSINT Toolkit](https://www.pulsemcp.com/servers/himanshusanecha-osint-toolkit) — Unified interface for network reconnaissance with parallel execution of WHOIS, Nmap, DNS lookups, and typosquatting detection.
-- 📦🆓💰 [ContrastAPI](https://github.com/UPinar/contrastapi) — Security intelligence server with 31 tools: domain recon (DNS, WHOIS, SSL, subdomains, WAF, Wayback) plus orchestrated `audit_domain`, IP reputation plus orchestrated `threat_report` (Shodan + AbuseIPDB + ASN), CVE/EPSS/KEV lookup plus `bulk_cve_lookup` (50/call) and `cve_leading` (MITRE/GHSA pre-NVD), IOC enrichment plus `bulk_ioc_lookup` (50/call), threat intel, username OSINT, exploit search, `check_dependencies` (requirements.txt / package.json audit), and code security scanning. Free tier: 100 req/hr. Pro: 1000 req/hr with API key.
+- 📦🆓💰 [ContrastAPI](https://github.com/UPinar/contrastapi) — Security intelligence server with **33 cascade-aware tools** (`next_calls` agent workflow chains): CVE+EPSS/KEV, MITRE CWE catalog (944 entries), domain audit, IP threat report (Shodan+AbuseIPDB+ASN+FireHOL), IOC/exploit/dependency/code security. Free 100 req/hr · Pro 1000 req/hr.
 
 ## Web Scraping
 
