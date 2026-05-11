@@ -56,6 +56,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 📦🆓 [VirusTotal](https://github.com/BurtTheCoder/mcp-virustotal) — Analyze URLs, files (by hash), IPs, and domains with detailed relationship mapping. Free API tier available, requires `VIRUSTOTAL_API_KEY`.
 - 📦🆓 [Voidly](https://www.npmjs.com/package/@voidly/mcp-server) — Global internet censorship intelligence: 116 tools across 119+ countries. Query OONI / IODA / CensoredPlanet evidence, look up 5,356 citable incidents, check if a domain or service is blocked in a country, fetch ISP-level risk scores, run ML-driven shutdown forecasts, and verify censorship claims. Free, no API key needed for read endpoints. `npx @voidly/mcp-server`.
+- 📦🆓 [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) OpenOSINT — AI-powered OSINT agent with interactive REPL, MCP server, and CLI.
 
 ## Meta / Discovery
 
