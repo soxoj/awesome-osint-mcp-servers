@@ -24,6 +24,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - [Company Intelligence](#company-intelligence)
 - [Threat Intelligence](#threat-intelligence)
 - [Meta / Discovery](#meta--discovery)
+- [Blockchain Intelligence](#blockchain-intelligence)
 
 ## SOCMINT
 
@@ -61,6 +62,10 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Meta / Discovery
 
 - 🆓 [Not Human Search](https://nothumansearch.ai) — Agent-first discovery engine for MCP servers. Search, score, and live-probe (`verify_mcp`) 8,600+ servers via JSON-RPC or REST API. Useful for pivoting between OSINT MCP tools. MCP: https://nothumansearch.ai/mcp
+
+## Blockchain Intelligence
+
+- 💰 [TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final) — Blockchain OSINT for AI agent trust scoring — reads public Solana on-chain data (wallet history, transaction patterns) to score agent trustworthiness. Free preflight + paid signed V5 trust receipts via x402 micropayments. MCP: https://intel.twzrd.xyz/mcp
 
 ## Contributing
 
