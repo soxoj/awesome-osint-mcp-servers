@@ -23,6 +23,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - [Web Scraping](#web-scraping)
 - [Company Intelligence](#company-intelligence)
 - [Threat Intelligence](#threat-intelligence)
+- [Research Intelligence](#research-intelligence)
 - [Meta / Discovery](#meta--discovery)
 - [Blockchain Intelligence](#blockchain-intelligence)
 
@@ -58,6 +59,10 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓 [VirusTotal](https://github.com/BurtTheCoder/mcp-virustotal) — Analyze URLs, files (by hash), IPs, and domains with detailed relationship mapping. Free API tier available, requires `VIRUSTOTAL_API_KEY`.
 - 📦🆓 [Voidly](https://www.npmjs.com/package/@voidly/mcp-server) — Global internet censorship intelligence: 116 tools across 119+ countries. Query OONI / IODA / CensoredPlanet evidence, look up 5,356 citable incidents, check if a domain or service is blocked in a country, fetch ISP-level risk scores, run ML-driven shutdown forecasts, and verify censorship claims. Free, no API key needed for read endpoints. `npx @voidly/mcp-server`.
 - 📦🆓 [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI.
+
+## Research Intelligence
+
+- 📦🆓💰 [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) — Scientific paper search with structured full-text evidence: methods, sample sizes, results, limitations, quality scores, and falsification prompts. Useful for claim verification and literature OSINT. Remote MCP + REST. Free tier: 50 results. [docs](https://bgpt.pro/mcp/) · MCP: https://bgpt.pro/mcp/sse
 
 ## Meta / Discovery
 
