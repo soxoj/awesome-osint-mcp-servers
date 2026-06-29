@@ -85,6 +85,8 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 📦🆓💰 [Helium MCP](https://github.com/connerlambden/helium-mcp) — 37-dimensional news bias scoring across 216 sources, market data, and ML options pricing. Remote MCP + REST. [Demo](https://connerlambden.github.io/helium-news-explorer/) · [docs](https://heliumtrades.com/mcp-page/)
 
+- 📦🆓 [BuyWhere](https://github.com/BuyWhere/buywhere-mcp) — Real-time cross-border e-commerce product search and price comparison across 11M+ items from 50+ stores (Amazon, Lazada, Shopee). MCP server for AI-powered shopping agents.
+
 ## Contributing
 
 Contributions are welcome! Please open a pull request to add a new OSINT MCP server to the list.
