@@ -87,6 +87,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Market & Trading
 
 - 📦🆓💰 [Helium MCP](https://github.com/connerlambden/helium-mcp) — 37-dimensional news bias scoring across 216 sources, market data, and ML options pricing. Remote MCP + REST. [Demo](https://connerlambden.github.io/helium-news-explorer/) · [docs](https://heliumtrades.com/mcp-page/)
+- 📦💰 [AgentServices](https://agentservices.to) — x402-paid crypto market data and intelligence APIs for AI agents. 54 services, 97 endpoints, 37 MCP tools. Live prices, DeFi data, on-chain analytics, fear-greed index. MCP: https://api.agentservices.to/mcp
 
 ## Contributing
 
