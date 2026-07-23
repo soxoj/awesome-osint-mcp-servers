@@ -63,6 +63,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Public Records & Compliance
 
 - 🆓💰 [DataNexus MCP](https://smithery.ai/servers/dev-7bd0/mcp-server/) — Public records intelligence across 7 domains: domain recon (RDAP, DNS, SSL, subdomains, email security), patent search & inventor portfolios (EPO/WIPO), US government contract awards & vendor history (SAM.gov), regulatory filings & dockets (Regulations.gov + Federal Register), US/UK nonprofit 990 data & health scores, CVE/SBOM/EPSS vulnerability intelligence, and professional licence verification (NPI, FINRA, SAM exclusions). 55 tools, no API key required for free tier, hosted remote MCP.
+- 📦💰 [Nummeropslag](https://github.com/andrey-tut/nummeropslag-api) — Privacy-first Danish phone-number intelligence using official CVR and telecom-register data. Look up registered companies, operators, number types, and community spam/trust signals without exposing private individuals' names. Requires a paid API key.
 
 ## Threat Intelligence
 
