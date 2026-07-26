@@ -72,6 +72,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓 [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI.
 - 📦🆓 [osint-agent-skills](https://github.com/frangelbarrera/osint-agent-skills) — 23 MCP tools (DNS, Shodan InternetDB, crt.sh, Wayback CDX, GitHub code search, OTX, HIBP, Etherscan, Mastodon) with zero-dependency Node.js server for Claude Code, Cursor, and Ollama.
 - 📦🆓 [VulneraMCP](https://github.com/telmon95/VulneraMCP) — AI-powered bug bounty MCP server with recon (subfinder, httpx, gau, ffuf), vulnerability testing (XSS/SQLi/IDOR/CSRF), API/auth/cloud scanning, knowledge-graph analysis, and Markdown reporting. Integrates OWASP ZAP and CLI tools with PostgreSQL storage.
+- 📦🆓 [Clearfront](https://github.com/scottmartinanderson/clearfront) — Self-OSINT footprint scanner exposing 30 tools over MCP: username enumeration (Sherlock, Maigret, WhatsMyName), email and breach checks (holehe, HIBP, Hudson Rock infostealer logs), domain and IP recon (crt.sh, Shodan, Censys, GreyNoise, Wayback Machine), and EXIF/GPS extraction. Correlates findings into an evidence graph and rates each by source, confidence and severity. Configurable sweep depth and a local web console. `pip install clearfront`, runs locally, most tools keyless.
 
 ## Research Intelligence
 
