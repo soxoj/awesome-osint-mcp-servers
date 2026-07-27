@@ -82,6 +82,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 🆓 [Not Human Search](https://nothumansearch.ai) — Agent-first discovery engine for MCP servers. Search, score, and live-probe (`verify_mcp`) 8,600+ servers via JSON-RPC or REST API. Useful for pivoting between OSINT MCP tools. MCP: https://nothumansearch.ai/mcp
 - 📦🆓 [Claudii Exploratores](https://github.com/SOsintOps/claudii-exploratores) — OSINT suite exposing 898 curated OSINT tools across 24 categories (people, usernames, email, domains, IP, phones, companies, crypto, IBAN, media, social platforms…) as both a Claude Agent Skill and an MCP server. Auto-classifies an indicator, builds only the search URLs that fit it, and includes an offline ISO 13616 IBAN verifier and a reversible PII redactor. Python / FastMCP, AGPL-3.0. Alpha.
+- 🆓 [SkillsIndex](https://skillsindex.dev) - Search and vetting index for 11,651 MCP servers, Claude skills, GPT actions and IDE plugins, including the OSINT servers listed here. Every entry carries a 0-100 score built from separate security, utility and maintenance ratings, so a server can be checked before it is installed ([method](https://skillsindex.dev/methodology/)). Agent-native search through its own MCP server, [skillsindex-mcp](https://github.com/thomasblc/skillsindex-mcp) (`search_tools`, `check_security`, `get_top_rated`).
 
 ## Blockchain Intelligence
 
