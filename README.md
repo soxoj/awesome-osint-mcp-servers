@@ -77,6 +77,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Research Intelligence
 
 - 📦🆓💰 [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) — Scientific paper search with structured full-text evidence: methods, sample sizes, results, limitations, quality scores, and falsification prompts. Useful for claim verification and literature OSINT. Remote MCP + REST. Free tier: 50 results. [docs](https://bgpt.pro/mcp/) · MCP: https://bgpt.pro/mcp/sse
+- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) - Live trend / OSINT-style signals across Google, TikTok, Reddit, Wikipedia, news sentiment, X, and more via MCP.
 
 ## Meta / Discovery
 
