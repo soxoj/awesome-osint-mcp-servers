@@ -49,6 +49,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 🆓💰 [AnySite](https://docs.anysite.io/mcp-server/overview) — Structured data access to 115+ endpoints across 40+ platforms (LinkedIn, Instagram, X, Reddit, YouTube, GitHub, Amazon, etc.) via five meta-tools. 7-day free trial with 1,000 credits.
 - 📦🆓💰 [Bright Data](https://github.com/brightdata/brightdata-mcp) — Real-time web search, scraping, and structured data extraction from 60+ sources (Amazon, LinkedIn, TikTok, Google Maps, etc.) with CAPTCHA and anti-bot bypass. Free tier: 5,000 requests/month.
+- 🆓💰 [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) — Web search and page-content extraction (`web_search`, `web_fetch`) for LLM agents. Default endpoint works without an API key; an account with credits is needed for production rate limits. MCP: https://search.parallel.ai/mcp
 
 ## Company Intelligence
 
@@ -78,7 +79,6 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Research Intelligence
 
 - 📦🆓💰 [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) — Scientific paper search with structured full-text evidence: methods, sample sizes, results, limitations, quality scores, and falsification prompts. Useful for claim verification and literature OSINT. Remote MCP + REST. Free tier: 50 results. [docs](https://bgpt.pro/mcp/) · MCP: https://bgpt.pro/mcp/sse
-- 🆓 [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) — Web discovery and page retrieval for open-source investigations, including public information about people, companies, domains, and incidents. No API key required. MCP: https://search.parallel.ai/mcp
 
 ## Meta / Discovery
 
