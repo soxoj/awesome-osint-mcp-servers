@@ -78,6 +78,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Research Intelligence
 
 - 📦🆓💰 [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) — Scientific paper search with structured full-text evidence: methods, sample sizes, results, limitations, quality scores, and falsification prompts. Useful for claim verification and literature OSINT. Remote MCP + REST. Free tier: 50 results. [docs](https://bgpt.pro/mcp/) · MCP: https://bgpt.pro/mcp/sse
+- 🆓 [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) — Web discovery and page retrieval for open-source investigations, including public information about people, companies, domains, and incidents. No API key required. MCP: https://search.parallel.ai/mcp
 
 ## Meta / Discovery
 
