@@ -24,6 +24,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - [Company Intelligence](#company-intelligence)
 - [Public Records & Compliance](#public-records--compliance)
 - [Threat Intelligence](#threat-intelligence)
+- [Geospatial & Geopolitical Intelligence](#geospatial--geopolitical-intelligence)
 - [Research Intelligence](#research-intelligence)
 - [Meta / Discovery](#meta--discovery)
 - [Blockchain Intelligence](#blockchain-intelligence)
@@ -71,6 +72,8 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 🆓💰 [DataNexus MCP](https://smithery.ai/servers/dev-7bd0/mcp-server/) — Public records intelligence across 7 domains: domain recon (RDAP, DNS, SSL, subdomains, email security), patent search & inventor portfolios (EPO/WIPO), US government contract awards & vendor history (SAM.gov), regulatory filings & dockets (Regulations.gov + Federal Register), US/UK nonprofit 990 data & health scores, CVE/SBOM/EPSS vulnerability intelligence, and professional licence verification (NPI, FINRA, SAM exclusions). 55 tools, no API key required for free tier, hosted remote MCP.
 - 📦💰 [Nummeropslag](https://github.com/andrey-tut/nummeropslag-api) — Privacy-first Danish phone-number intelligence using official CVR and telecom-register data. Look up registered companies, operators, number types, and community spam/trust signals without exposing private individuals' names. Requires a paid API key.
+- 📦🆓 [Sanctions Screening MCP](https://github.com/cyanheads/sanctions-screening-mcp-server) — Screen names against the consolidated OFAC, EU, UK and UN sanctions lists, resolve companies to GLEIF LEIs, and trace ownership chains. Mirrors the lists into a local SQLite/FTS5 index, so matching runs offline with no API key and no rate limit; hits carry a raw Jaro-Winkler score and source provenance rather than a verdict. `npx -y @cyanheads/sanctions-screening-mcp-server`
+- 📦🆓 [Sift](https://github.com/mefos-lab/sift) — 80 tools for cross-referencing public financial and corporate records across 9 sources: OpenSanctions, the ICIJ Offshore Leaks database (via Aleph), UK Companies House, SEC EDGAR, CourtListener, GLEIF, Wikidata and land registries. Ships 24 structural detection patterns (shell companies, nominee shields, phoenix companies, circular ownership) and interactive network graphs. Free OpenSanctions API key required.
 
 ## Threat Intelligence
 
@@ -83,6 +86,12 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓 [ScanMalware](https://github.com/scanmalware/mcp-server) — Submit a URL for sandboxed browser analysis, then pivot across the scan archive: search by domain, IP, ASN, JARM, favicon mmh3, TLSH/ssdeep fuzzy hash, screenshot hash, OCR text, or JavaScript fingerprint. Also exposes YARA matches, TLS/RDAP records, Certificate Transparency pivots, detected technologies, and pastejacking/clipboard events. 128 tools, no API key required. MCP: https://mcp.scanmalware.com/mcp
 - 📦🆓 [Darknet MCP](https://github.com/badchars/darknet-mcp-server) — 66 tools for dark web and breach intelligence: ransomware group tracking and victim listings, stealer logs, HIBP breach lookups, IntelX search, Tor .onion fetching and exit-node checks, MalwareBazaar/ThreatFox/URLhaus feeds, and Bitcoin address intel. Many tools work with no API key; premium sources unlock with your own keys. `npx darknet-mcp-server`
 - 📦🆓 [OpenCTI MCP](https://github.com/zxzinn/opencti-mcp) — Natural-language access to an OpenCTI instance: latest reports, campaigns by name, attack patterns, indicators, labels and marking definitions over the GraphQL API. Requires your own OpenCTI URL and token.
+
+## Geospatial & Geopolitical Intelligence
+
+- 📦🆓 [World Intel MCP](https://github.com/marc-shade/world-intel-mcp) — 120 tools for real-time global situational awareness across 30+ domains: GDELT and 119 RSS news feeds, ACLED conflict events, military aircraft tracking (ADS-B/OpenSky), NGA maritime warnings, submarine cables and datacenters, OFAC sanctions, USGS/NASA disaster feeds, plus geospatial datasets for bases, ports, pipelines and nuclear facilities. All sources are free public APIs; optional free keys (FRED, EIA, NASA FIRMS, ACLED, OpenSky) unlock a few of them. Python, installed from source.
+- 📦🆓 [Satellite MCP](https://github.com/badchars/satellite-mcp) — 171 tools across 27 categories of geospatial intelligence: Sentinel-2 and Landsat scene search, NASA FIRMS wildfire detections, night-lights change detection, aircraft and vessel tracking, military and conflict data, sanctions, terrain and OpenStreetMap queries, plus spectral and change-detection math. Most tools need no key; premium imagery (Planet, NASA Earthdata, N2YO) uses your own. `npx satellite-mcp`
+- 📦🆓 [GDELT MCP](https://github.com/cyanheads/gdelt-mcp-server) — Search and analyse global news coverage through the GDELT Project: article search, coverage timelines and breakdowns, tone distribution, and US television transcripts with clip, context and trending queries. No API key. `npx -y @cyanheads/gdelt-mcp-server`
 
 ## Research Intelligence
 
