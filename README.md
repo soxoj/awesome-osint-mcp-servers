@@ -106,6 +106,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 💰 [TWZRD Agent Intel](https://intel.twzrd.xyz) — Blockchain OSINT for AI agent trust scoring — reads public Solana on-chain data (wallet history, transaction patterns) to score agent trustworthiness. Free preflight + paid signed V5 trust receipts via x402 micropayments. MCP: https://intel.twzrd.xyz/mcp
 - 💰 [The Stall](https://github.com/thebrierfox/the-stall) — Multi-tool blockchain OSINT server: OFAC sanctions screening (19,000+ SDN entries, fuzzy name match + AKA aliases), wallet risk scoring, agent KYA trust scoring, EVM and Solana transaction intelligence, and token security analysis. Pay-per-call via x402 USDC micropayments on Base — no accounts or API keys. MCP: https://the-stall.intuitek.ai/mcp
+- 🔑 [MandateGuard](https://github.com/ezequiellich44-cmd/MandateGuard) — Deterministic payment policy for AI agents moving money on-chain: pre-action gate enforcing budgets, allowlists, denylists, rate limits, and signed Ed25519 mandates with zero LLM in the decision path. Tamper-evident SHA-256 audit ledger. Official MCP server on the Model Context Protocol Registry. MCP: https://registry.modelcontextprotocol.io/io.github.ezequiellich44-cmd/mandateguard 
 
 ## Market & Trading
 
