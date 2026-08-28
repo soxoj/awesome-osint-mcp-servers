@@ -37,7 +37,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦💰 [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) — X (Twitter) data extraction and automation with 40+ REST API endpoints, real-time account monitoring, and trending topics. MCP server with API key auth.
 - 📦🆓 [OSINT Tools MCP](https://github.com/frishtik/osint-tools-mcp-server) — Wraps seven classic OSINT CLIs behind one server: Sherlock and Blackbird (usernames), Maigret, Holehe (email), GHunt (Google accounts), theHarvester (domains) and SpiderFoot. Python, installs the underlying tools itself.
 - 📦🆓 [LinkedIn MCP](https://github.com/eliasbiondo/linkedin-mcp-server) — Search LinkedIn people, companies and jobs, and pull structured profile, company and post data. Uses your own session cookie; no API key.
-- 🆓💰 [BulkTranscripts](https://github.com/pratie/bulktranscripts-mcp) — Enumerate a YouTube channel's uploads, search inside a channel by topic, and pull full transcripts as clean text for analysis; new-upload tracking lets a subject's channel be monitored over time. Hosted, keyless on the free tier (30 transcripts per IP), 7 tools. MCP: https://bulktranscripts.co/mcp
+- 🆓💰 [BulkTranscripts](https://github.com/pratie/bulktranscripts-mcp) — Enumerate a YouTube channel's uploads, search inside a channel by topic, and pull full transcripts as clean text. `get_latest_videos` is unmetered, so a subject's channel can be polled for new uploads and credits spent only on what appears. Hosted, 7 tools, no signup: 30 free credits per public IP — searches and listings cost a credit too, and a shared or NAT address may arrive with the allowance already spent. One-time credit packs after that. MCP: https://bulktranscripts.co/mcp
 
 ## Network Scanning
 
