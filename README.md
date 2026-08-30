@@ -37,6 +37,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦💰 [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) — X (Twitter) data extraction and automation with 40+ REST API endpoints, real-time account monitoring, and trending topics. MCP server with API key auth.
 - 📦🆓 [OSINT Tools MCP](https://github.com/frishtik/osint-tools-mcp-server) — Wraps seven classic OSINT CLIs behind one server: Sherlock and Blackbird (usernames), Maigret, Holehe (email), GHunt (Google accounts), theHarvester (domains) and SpiderFoot. Python, installs the underlying tools itself.
 - 📦🆓 [LinkedIn MCP](https://github.com/eliasbiondo/linkedin-mcp-server) — Search LinkedIn people, companies and jobs, and pull structured profile, company and post data. Uses your own session cookie; no API key.
+- 🆓💰 [BulkTranscripts](https://github.com/pratie/bulktranscripts-mcp) — YouTube channel uploads, in-channel topic search, and full transcripts as clean text. `get_latest_videos` is unmetered — poll it to watch a subject's channel and spend credits only on what is new. Hosted, 7 tools, no signup; 30 free credits shared per public IP, then one-time packs. MCP: https://bulktranscripts.co/mcp
 
 ## Network Scanning
 
