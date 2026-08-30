@@ -36,6 +36,12 @@ If in doubt, ask: would an investigator or a security researcher doing recon use
 
 5. **Description is accurate and sells the actual tool**, not the company behind it. One or two sentences on what it does and what's required to use it (API key, free tier limits) is enough.
 
+6. **Keep it short.** The description — everything after the em dash — must stay under 400 characters, and ideally around 250. The median entry in the list is 225. Anything longer is documentation rather than an index entry: caveats, pricing tiers and per-tool costs belong in your own README, with a link to it. Only the text counts, so a long URL costs you nothing.
+
+   ```bash
+   grep -oP '^- \S+ \[[^\]]+\]\([^)]+\)\s+—\s+\K.*' README.md | awk 'length>400{print length": "$0}'
+   ```
+
 ## Process
 
 - Small, single-entry PRs only — one server per PR.
