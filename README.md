@@ -71,6 +71,8 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓 [Companies House MCP](https://github.com/stefanoamorelli/companies-house-mcp) — 38 tools over the UK Companies House API: company and officer search, profiles, filing history and documents, charges, insolvency, PSC/beneficial ownership and disqualifications. Free API key required. AGPL-3.0.
 - 💰 [Reestri](https://apify.com/reestri) — Public company registers of Georgia (country) and Armenia: NAPR company lookup and person-to-companies search, Armenian state register with official beneficial-owner declarations (BODS) and public-contract exposure, plus a one-call screen across Georgia, Armenia and Moldova. Remote streamable-HTTP MCP via Apify, pay per lookup.
 
+- 🆓💰 [Zambo](https://github.com/zambodotdev/zambo-mcp) — Zero-auth MCP execution layer with 120 tools across 17 products, including lead research (leadsignal) and market-intelligence tools. Free 20 calls/tool/day, no account; paid Day Pass and monthly tiers.
+
 ## Public Records & Compliance
 
 - 🆓💰 [DataNexus MCP](https://smithery.ai/servers/dev-7bd0/mcp-server/) — Public records intelligence across 7 domains: domain recon (RDAP, DNS, SSL, subdomains, email security), patent search & inventor portfolios (EPO/WIPO), US government contract awards & vendor history (SAM.gov), regulatory filings & dockets (Regulations.gov + Federal Register), US/UK nonprofit 990 data & health scores, CVE/SBOM/EPSS vulnerability intelligence, and professional licence verification (NPI, FINRA, SAM exclusions). 55 tools, no API key required for free tier, hosted remote MCP.
