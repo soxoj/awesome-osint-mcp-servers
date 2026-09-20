@@ -62,6 +62,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 ## Company Intelligence
 
+- 💰 [NeuralVerge](https://github.com/neuralverge/neuralverge-mcp-server) — Company and people intelligence in one server: deep research with cited sources, URL-to-JSON extraction against your own schema, contact enrichment from an email or phone number, company profiles from corporate registries and funding data, and profile lookups across 30+ sources. 15 tools, provenance on every field, priced per result. Remote streamable-HTTP MCP: https://api.neuralverge.ai/functions/v1/mcp-server
 - 📦🆓💰 [CompanyScope](https://github.com/Stewyboy1990/companyscope-mcp) — Company intelligence aggregating data from 8 public sources (Wikipedia, SEC EDGAR, OpenCorporates, RDAP, GitHub, and more) for corporate reconnaissance. Free tier 25 calls/day, pay-per-use tier on Apify.
 - 📦🆓 [StockScope](https://github.com/Stewyboy1990/companyscope-mcp) — SEC EDGAR financial intelligence for stock research. Revenue, net income, margins, filings, and company comparisons for any US public company. Free, no API key needed.
 - 🆓💰 [FilingFirehose](https://filingfirehose.com/mcp) — Hosted SEC EDGAR MCP for any US ticker: 8-K body-text parsing (catches buried items beyond what the filer reported), 10-K / 10-Q / S-3 / Schedule 13D reads, forensic risk scoring (LOW/MODERATE/ELEVATED/HIGH), and cyber-incident tracking. Free public endpoints + paid tiers from $9/mo. MCP: https://filingfirehose.com/mcp
