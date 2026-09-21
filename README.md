@@ -115,6 +115,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Market & Trading
 
 - 📦🆓💰 [Helium MCP](https://github.com/connerlambden/helium-mcp) — 37-dimensional news bias scoring across 216 sources, market data, and ML options pricing. Remote MCP + REST. [Demo](https://connerlambden.github.io/helium-news-explorer/) · [docs](https://heliumtrades.com/mcp-page/)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contributing
 
