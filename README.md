@@ -59,6 +59,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 🆓💰 [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) — Web search and page-content extraction (`web_search`, `web_fetch`) for LLM agents. Default endpoint works without an API key; an account with credits is needed for production rate limits. MCP: https://search.parallel.ai/mcp
 - 🆓💰 [You.com](https://you.com/docs) — Web search and page-content extraction for LLM agents, plus managed multi-step research. The free profile works with no signup or API key; an API key adds page-content reads and research tools. MCP: https://api.you.com/mcp?profile=free
 - 📦🆓 [Wayback Machine MCP](https://github.com/Mearman/mcp-wayback-machine) — Query and save Internet Archive snapshots: check archive status, fetch archived URLs, search the CDX index, and compare two snapshots of a page. No API key for reads. `npx -y mcp-wayback-machine`
+- 📦🆓💰 [Singapore Proxy MCP](https://github.com/Xavierfok/singapore-proxy-mcp) — Fetch pages and run Google searches (`gl=sg`) from a real Singapore mobile IP on Singtel or M1, and rotate the IP on demand, to see what Singapore users are served. Requires an API key; 24-hour free trial, then paid. MCP: https://mcp.singaporemobileproxy.com/mcp
 
 ## Company Intelligence
 
