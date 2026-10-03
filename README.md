@@ -104,7 +104,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 ## Research Intelligence
 
-- 📦🆓💰 [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) — Scientific paper search with structured full-text evidence: methods, sample sizes, results, limitations, quality scores, and falsification prompts. Useful for claim verification and literature OSINT. Remote MCP + REST. Free tier: 50 results. [docs](https://bgpt.pro/mcp/) · MCP: https://bgpt.pro/mcp/sse
+- 🆓💰 [BGPT MCP](https://bgpt.pro/mcp/) — Scientific paper search with structured full-text evidence: methods, sample sizes, results, limitations, quality scores, and falsification prompts. Useful for claim verification and literature OSINT. Remote MCP + REST. Free tier: 50 results, then $0.02 per result. MCP: https://bgpt.pro/mcp/sse
 
 ## Meta / Discovery
 
@@ -118,7 +118,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 ## Market & Trading
 
-- 📦🆓💰 [Helium MCP](https://github.com/connerlambden/helium-mcp) — 37-dimensional news bias scoring across 216 sources, market data, and ML options pricing. Remote MCP + REST. [Demo](https://connerlambden.github.io/helium-news-explorer/) · [docs](https://heliumtrades.com/mcp-page/)
+- 🆓💰 [Helium MCP](https://heliumtrades.com/mcp-page/) — News-source bias scoring with the quotes behind each score across 5,000+ sources, article and balanced-story search, a meme database searchable by OCR text, plus ML options pricing and ranked trade strategies. 10 tools. Free: 50 queries, no sign-up, then $0.02 per query. MCP: https://heliumtrades.com/mcp
 
 ## Contributing
 
