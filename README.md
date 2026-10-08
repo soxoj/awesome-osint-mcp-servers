@@ -32,6 +32,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 ## SOCMINT
 
+- 🆓💰 [Arcmira: YouTube Transcript Search](https://arcmira.com/) — Find public statements across indexed YouTube videos, with transcript passages and source timestamps. Requires Arcmira sign-in or an API key; free tier and paid plans. [Docs](https://arcmira.com/docs/mcp-server). MCP: https://mcp.arcmira.com/mcp
 - 💰 [Expose Team](https://expose.team?utm_source=github.com&utm_campaign=soxoj_awesome_osint_mcp_servers) — AI-powered OSINT at lightspeed. Credit-based plans from $8/month.
 - 📦🆓 [Maigret](https://github.com/BurtTheCoder/mcp-maigret) — Collect user account information from various public sources by username.
 - 📦💰 [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) — X (Twitter) data extraction and automation with 40+ REST API endpoints, real-time account monitoring, and trending topics. MCP server with API key auth.
