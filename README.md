@@ -115,7 +115,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 💰 [TWZRD Agent Intel](https://intel.twzrd.xyz) — Blockchain OSINT for AI agent trust scoring — reads public Solana on-chain data (wallet history, transaction patterns) to score agent trustworthiness. Free preflight + paid signed V5 trust receipts via x402 micropayments. MCP: https://intel.twzrd.xyz/mcp
 - 💰 [The Stall](https://github.com/thebrierfox/the-stall) — Multi-tool blockchain OSINT server: OFAC sanctions screening (19,000+ SDN entries, fuzzy name match + AKA aliases), wallet risk scoring, agent KYA trust scoring, EVM and Solana transaction intelligence, and token security analysis. Pay-per-call via x402 USDC micropayments on Base — no accounts or API keys. MCP: https://the-stall.intuitek.ai/mcp
-- 🆓💰 [Tanod](https://tanod.dev) — Pre-transaction risk verdict for Ethereum and Base addresses, OFAC SDN crypto-address screening, token, transaction and ENS lookups, plus RDAP, DNS and IP lookups. Small free daily tier, then pay per call via x402 (USDC on Base); no account. MCP: https://tanod.dev/mcp
+- 🆓💰 [Tanod](https://tanod.dev) — Pre-transaction risk verdict for Ethereum and Base addresses, OFAC SDN crypto-address screening, token, transaction and ENS lookups, plus RDAP, DNS and IP lookups. Small free daily tier, then pay per call via x402 (USDC on Base or Polygon); no account. MCP: https://tanod.dev/mcp
 
 ## Market & Trading
 
