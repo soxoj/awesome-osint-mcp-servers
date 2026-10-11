@@ -34,6 +34,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 🆓💰 [Arcmira](https://arcmira.com/) — Find public statements across indexed YouTube videos, with transcript passages and source timestamps. Requires Arcmira sign-in or an API key; free tier and paid plans. MCP: https://mcp.arcmira.com/mcp
 - 💰 [Expose Team](https://expose.team?utm_source=github.com&utm_campaign=soxoj_awesome_osint_mcp_servers) — AI-powered OSINT at lightspeed. Credit-based plans from $8/month.
+- 📦🆓 [Consensus OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) — Local MCP server for username, email and phone lookups, with structured, paginated results. Install the `mcp` extra and run `consensus mcp --transport stdio`; optional providers may need credentials.
 - 📦🆓 [Maigret](https://github.com/BurtTheCoder/mcp-maigret) — Collect user account information from various public sources by username.
 - 📦💰 [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) — X (Twitter) data extraction and automation with 40+ REST API endpoints, real-time account monitoring, and trending topics. MCP server with API key auth.
 - 📦🆓 [OSINT Tools MCP](https://github.com/frishtik/osint-tools-mcp-server) — Wraps seven classic OSINT CLIs behind one server: Sherlock and Blackbird (usernames), Maigret, Holehe (email), GHunt (Google accounts), theHarvester (domains) and SpiderFoot. Python, installs the underlying tools itself.
