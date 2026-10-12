@@ -41,6 +41,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓 [LinkedIn MCP](https://github.com/eliasbiondo/linkedin-mcp-server) — Search LinkedIn people, companies and jobs, and pull structured profile, company and post data. Uses your own session cookie; no API key.
 - 🆓💰 [BulkTranscripts](https://github.com/pratie/bulktranscripts-mcp) — YouTube channel uploads, in-channel topic search, and full transcripts as clean text. `get_latest_videos` is unmetered — poll it to watch a subject's channel and spend credits only on what is new. Hosted, 7 tools, no signup; 30 free credits shared per public IP, then one-time packs. MCP: https://bulktranscripts.co/mcp
 - 🆓💰 [LinkMCP](https://app.linkmcp.io) — LinkedIn research and automation through your own account: profile and company lookup, people, job and Sales Navigator search, posts, comments and inbox, work email and mobile lookup. It also writes — messages, connection requests, posts and reactions. 35 tools. Free trial covers lookups; connecting LinkedIn needs a plan from $19/month. MCP: https://app.linkmcp.io/api/mcp
+- 🆓💰 [GetYouTubeTranscript](https://getyoutubetranscript.com/youtube-mcp-server) — Full transcripts of YouTube videos, YouTube and in-channel search, and a channel's or playlist's video list. Polling a channel's latest uploads is free, so you only spend credits on new videos. Hosted, 7 tools, OAuth or API key; 100 free credits. MCP: https://getyoutubetranscript.com/api/mcp
 
 ## Network Scanning
 
