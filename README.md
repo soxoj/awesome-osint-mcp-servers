@@ -41,6 +41,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓 [LinkedIn MCP](https://github.com/eliasbiondo/linkedin-mcp-server) — Search LinkedIn people, companies and jobs, and pull structured profile, company and post data. Uses your own session cookie; no API key.
 - 🆓💰 [BulkTranscripts](https://github.com/pratie/bulktranscripts-mcp) — YouTube channel uploads, in-channel topic search, and full transcripts as clean text. `get_latest_videos` is unmetered — poll it to watch a subject's channel and spend credits only on what is new. Hosted, 7 tools, no signup; 30 free credits shared per public IP, then one-time packs. MCP: https://bulktranscripts.co/mcp
 - 🆓💰 [LinkMCP](https://app.linkmcp.io) — LinkedIn research and automation through your own account: profile and company lookup, people, job and Sales Navigator search, posts, comments and inbox, work email and mobile lookup. It also writes — messages, connection requests, posts and reactions. 35 tools. Free trial covers lookups; connecting LinkedIn needs a plan from $19/month. MCP: https://app.linkmcp.io/api/mcp
+- 📦🆓💰 [Reddit Scraper MCP](https://github.com/harshmaur/reddit-scraper-pro-mcp) — Search Reddit by keyword and pull posts, full comment threads, subreddits and a user's post and comment history as JSON. 3 tools; npx package (`reddit-scraper-mcp`). Needs an Apify token; no Reddit API key. Pay per result, the Apify free plan covers small runs.
 
 ## Network Scanning
 
