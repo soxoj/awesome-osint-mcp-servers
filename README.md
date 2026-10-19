@@ -57,6 +57,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 🆓💰 [Vend](https://extract.paypercall.dev) — Pay-per-call web and domain intelligence: IP geolocation, domain WHOIS/DNS/SSL, link health and status checks, web search, and clean page extraction. No signup, no API key; settle per call in Nano (XNO). MCP: https://extract.paypercall.dev/mcp
 - 📦💰 [StackScan](https://github.com/stackscan/stackscan-mcp) — Technographic lookups over 360M+ sites: what a domain is built on, who is behind it (industry, city, country, LinkedIn), and how many sites run a given technology and where. Batch domain lookup for list enrichment. Local stdio server, MIT, `npx -y @stackscan/mcp-server`. Charged per resolving domain; misses are not charged and `check_credits` is free.
 - 🆓💰 [IP99](https://ip99.com) — Risk score and geolocation for any IPv4/IPv6 address: proxy, VPN, dial-up pool and datacenter signals, each with the age of the evidence behind it, plus ASN, usage type and city. One MCP tool, no API key, 500 lookups/day; the same backend also serves passive DNS, CT and new-domain feeds over HTTP. MCP: https://ip99.com/mcp
+- 💰 [Karma.Domains MCP](https://karma.domains/en/expired-domains-mcp/) — Domain due diligence: Wayback Machine history with spam, toxic-topic and redirect flags, plus live WHOIS, DNS, domain age, backlink and spam-score checks. Also searches newly expired and dropping domains from 40+ sources. Paid: Karma.Domains Pro plan (OAuth or API key). MCP: https://mcp.karma.domains/mcp
 
 ## Web Scraping
 
