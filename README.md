@@ -43,6 +43,8 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 🆓💰 [LinkMCP](https://app.linkmcp.io) — LinkedIn research and automation through your own account: profile and company lookup, people, job and Sales Navigator search, posts, comments and inbox, work email and mobile lookup. It also writes — messages, connection requests, posts and reactions. 35 tools. Free trial covers lookups; connecting LinkedIn needs a plan from $19/month. MCP: https://app.linkmcp.io/api/mcp
 - 📦🆓💰 [Reddit Scraper MCP](https://github.com/harshmaur/reddit-scraper-pro-mcp) — Search Reddit by keyword and pull posts, full comment threads, subreddits and a user's post and comment history as JSON. 3 tools; npx package (`reddit-scraper-mcp`). Needs an Apify token; no Reddit API key. Pay per result, the Apify free plan covers small runs.
 
+- 💰 [TikTok Scraper](https://apify.com/harshmaur/tiktok-scraper) — Collect public TikTok videos, creator profiles, comments and follower lists for social-media research. Returns engagement counts and publication dates. No TikTok login; requires an Apify account and is paid per result. MCP: https://mcp.apify.com/?tools=harshmaur/tiktok-scraper
+
 ## Network Scanning
 
 - 📦🆓💰 [Shodan](https://github.com/BurtTheCoder/mcp-shodan) — Query the Shodan API and CVEDB for IP reconnaissance, DNS operations, vulnerability tracking, and device discovery. Free tier available with limited queries, requires Shodan API key.
