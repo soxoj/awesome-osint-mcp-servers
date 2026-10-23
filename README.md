@@ -103,6 +103,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓 [Darknet MCP](https://github.com/badchars/darknet-mcp-server) — 66 tools for dark web and breach intelligence: ransomware group tracking and victim listings, stealer logs, HIBP breach lookups, IntelX search, Tor .onion fetching and exit-node checks, MalwareBazaar/ThreatFox/URLhaus feeds, and Bitcoin address intel. Many tools work with no API key; premium sources unlock with your own keys. `npx darknet-mcp-server`
 - 📦🆓 [OpenCTI MCP](https://github.com/zxzinn/opencti-mcp) — Natural-language access to an OpenCTI instance: latest reports, campaigns by name, attack patterns, indicators, labels and marking definitions over the GraphQL API. Requires your own OpenCTI URL and token.
 - 📦🆓💰 [ThreatCluster](https://github.com/Jam0k/Threat-Intelligence-MCP) — Clustered incident records from 20,000+ sources, validated IOCs, CVE lookup and ransomware leak-site victims. 10 tools. Needs a free API key: 100 credits a day, 30 requests a minute, 7-day lookback. `npx -y threatcluster-mcp`
+- 📦🆓 [XposedOrNot](https://github.com/XposedOrNot/XposedOrNot-API) — XposedOrNot data breach lookups for emails and domains: the breaches an address appears in, its full breach history, the public breach catalog, domain exposure counts and recent breaches. Read-only, never returns passwords, no API key. MCP: https://api.xposedornot.com/mcp
 
 ## Geospatial & Geopolitical Intelligence
 
