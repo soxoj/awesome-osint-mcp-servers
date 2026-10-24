@@ -72,6 +72,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 🆓💰 [Zyte MCP](https://docs.zyte.com/zyte-web-data/mcp.html) — Fetch pages with ban avoidance, render them in a browser and take screenshots, extract product, article and job data with AI, and search the web as seen from a chosen country. Free to use, with usage billed at Zyte API prices and $5 of trial credit for a month. OAuth sign-in. MCP: https://mcp.zyte.com/v1/mcp
 - 🆓💰 [CurlShot](https://github.com/SergiuPogor/curlshot-mcp) — Capture a public web page as evidence: full-page PNG/JPEG/WebP, a PDF, or a video of the page scrolling, on phone or desktop presets, with cookie banners and ads hidden. Requires an API key; free plan 100 screenshots/month. MCP: https://curlshot.com/api/mcp
 - 🆓 [Keenable](https://docs.keenable.ai/mcp-server) — Web search (`search_web_pages`) that can be scoped to one site and a publication-date window, plus page fetch as markdown (`fetch_page_content`). No API key needed (1,000 requests/hour per IP); an optional key removes the hourly cap. MCP: https://api.keenable.ai/mcp
+- 📦🆓💰 [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) — Research people, companies and domains from their public pages: search the web, then scrape, crawl or map sites into Markdown, including JS-heavy pages and PDFs. Search and scrape work keyless (rate-limited); a free API key adds crawl and map. MCP: https://mcp.firecrawl.dev/v2/mcp
 
 ## Company Intelligence
 
