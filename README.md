@@ -84,6 +84,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 🆓 [Fylings](https://github.com/HeyZod/fylings-mcp) — African company intelligence across 18+ official national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM, and more) via a unified schema, with the official registry source and a last-verified date on every record. Company search & verification, beneficial ownership, government-contract awards, and sanctions screening. Free, no API key. Hosted MCP: https://www.fylings.com/api/mcp
 - 📦🆓 [Companies House MCP](https://github.com/stefanoamorelli/companies-house-mcp) — 38 tools over the UK Companies House API: company and officer search, profiles, filing history and documents, charges, insolvency, PSC/beneficial ownership and disqualifications. Free API key required. AGPL-3.0.
 - 💰 [Reestri](https://apify.com/reestri) — Public company registers of Georgia (country) and Armenia: NAPR company lookup and person-to-companies search, Armenian state register with official beneficial-owner declarations (BODS) and public-contract exposure, plus a one-call screen across Georgia, Armenia and Moldova. Remote streamable-HTTP MCP via Apify, pay per lookup.
+- 🆓 [Auregistre](https://auregistre.fr/api) — Dated history of a French company by SIREN, from the official BODACC gazette since 2008: changes of name, seat, capital and activity, insolvency judgments, filed accounts, ADEME grants and state aid. No key, no account. MCP: https://auregistre.fr/api/mcp
 
 ## Public Records & Compliance
 
