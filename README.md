@@ -113,6 +113,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓 [OpenCTI MCP](https://github.com/zxzinn/opencti-mcp) — Natural-language access to an OpenCTI instance: latest reports, campaigns by name, attack patterns, indicators, labels and marking definitions over the GraphQL API. Requires your own OpenCTI URL and token.
 - 📦🆓💰 [ThreatCluster](https://github.com/Jam0k/Threat-Intelligence-MCP) — Clustered incident records from 20,000+ sources, validated IOCs, CVE lookup and ransomware leak-site victims. 10 tools. Needs a free API key: 100 credits a day, 30 requests a minute, 7-day lookback. `npx -y threatcluster-mcp`
 - 📦🆓 [XposedOrNot](https://github.com/XposedOrNot/XposedOrNot-API) — XposedOrNot data breach lookups for emails and domains: the breaches an address appears in, its full breach history, the public breach catalog, domain exposure counts and recent breaches. Read-only, never returns passwords, no API key. MCP: https://api.xposedornot.com/mcp
+- 📦🆓 [Vulnerability Exposure](https://github.com/MRFrazer25/Vulnerability-Exposure-MCP) — Checks a public IP, domain, CVE ID or software version for confirmed vulnerabilities: NVD version ranges, CISA KEV, EPSS, distro backports, Shodan and published exploits. 16 tools, runs locally over stdio; every API key is optional.
 
 ## Geospatial & Geopolitical Intelligence
 
