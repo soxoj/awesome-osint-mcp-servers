@@ -48,6 +48,8 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 🆓💰 [TubeText YouTube Transcripts](https://github.com/LMSlay/tubetext-mcp) — Transcripts of YouTube videos, Shorts, playlists or whole channels (Whisper fallback when captions are missing), plus channel stats and Social Blade history. Apify sign-in (OAuth); pay per result with a free monthly credit. MCP: https://mcp.apify.com/?tools=fetch-actor-details,tubetext/youtube-transcript-fast,tubetext/youtube-channel-analytics,tubetext/socialblade-scraper
 - 🆓💰 [GetYouTubeTranscript](https://getyoutubetranscript.com/youtube-mcp-server) — Full transcripts of YouTube videos, YouTube and in-channel search, and a channel's or playlist's video list. Polling a channel's latest uploads is free, so you only spend credits on new videos. Hosted, 7 tools, OAuth or API key; 100 free credits. MCP: https://getyoutubetranscript.com/api/mcp
 
+- 💰 [TikTok Scraper](https://apify.com/harshmaur/tiktok-scraper) — Collect public TikTok videos, creator profiles, comments and follower lists for social-media research. Returns engagement counts and publication dates. No TikTok login; requires an Apify account and is paid per result. MCP: https://mcp.apify.com/?tools=harshmaur/tiktok-scraper
+
 ## Network Scanning
 
 - 📦🆓💰 [Shodan](https://github.com/BurtTheCoder/mcp-shodan) — Query the Shodan API and CVEDB for IP reconnaissance, DNS operations, vulnerability tracking, and device discovery. Free tier available with limited queries, requires Shodan API key.
