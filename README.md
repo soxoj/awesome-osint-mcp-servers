@@ -79,6 +79,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 🆓💰 [CurlShot](https://github.com/SergiuPogor/curlshot-mcp) — Capture a public web page as evidence: full-page PNG/JPEG/WebP, a PDF, or a video of the page scrolling, on phone or desktop presets, with cookie banners and ads hidden. Requires an API key; free plan 100 screenshots/month. MCP: https://curlshot.com/api/mcp
 - 🆓 [Keenable](https://docs.keenable.ai/mcp-server) — Web search (`search_web_pages`) that can be scoped to one site and a publication-date window, plus page fetch as markdown (`fetch_page_content`). No API key needed (1,000 requests/hour per IP); an optional key removes the hourly cap. MCP: https://api.keenable.ai/mcp
 - 📦🆓💰 [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) — Research people, companies and domains from their public pages: search the web, then scrape, crawl or map sites into Markdown, including JS-heavy pages and PDFs. Search and scrape work keyless (rate-limited); a free API key adds crawl and map. MCP: https://mcp.firecrawl.dev/v2/mcp
+- 🆓💰 [Serply MCP](https://serply.io/mcp) — Google web, News, Jobs and Scholar search with `site:`/`filetype:` operators passed through, plus Bing, page scraping and Reddit lookups (subreddit posts, full threads, a user's post and comment history). Requires an API key; 2,500 free credits for 30 days. MCP: https://api.serply.io/mcp
 
 ## Company Intelligence
 
