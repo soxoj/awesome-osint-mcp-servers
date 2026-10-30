@@ -93,6 +93,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓 [Companies House MCP](https://github.com/stefanoamorelli/companies-house-mcp) — 38 tools over the UK Companies House API: company and officer search, profiles, filing history and documents, charges, insolvency, PSC/beneficial ownership and disqualifications. Free API key required. AGPL-3.0.
 - 💰 [Reestri](https://apify.com/reestri) — Public company registers of Georgia (country) and Armenia: NAPR company lookup and person-to-companies search, Armenian state register with official beneficial-owner declarations (BODS) and public-contract exposure, plus a one-call screen across Georgia, Armenia and Moldova. Remote streamable-HTTP MCP via Apify, pay per lookup.
 - 🆓 [Auregistre](https://auregistre.fr/api) — Dated history of a French company by SIREN, from the official BODACC gazette since 2008: changes of name, seat, capital and activity, insolvency judgments, filed accounts, ADEME grants and state aid. No key, no account. MCP: https://auregistre.fr/api/mcp
+- 📦🆓 [open-data-mcp](https://github.com/markatdataandbeyond/open-data-mcp) — Free local stdio MCP with official open-data tools: EU VAT (VIES) + LEI (GLEIF), French Sirene and Nordic company registries, TED tenders, PubMed, ClinicalTrials.gov, NHTSA VIN recalls and more. No API key for basic tools. MIT. `npm ci && node src/index.js`
 
 ## Public Records & Compliance
 
