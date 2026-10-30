@@ -35,7 +35,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 🆓💰 [Arcmira](https://arcmira.com/) — Find public statements across indexed YouTube videos, with transcript passages and source timestamps. Requires Arcmira sign-in or an API key; free tier and paid plans. MCP: https://mcp.arcmira.com/mcp
 - 💰 [Expose Team](https://expose.team?utm_source=github.com&utm_campaign=soxoj_awesome_osint_mcp_servers) — AI-powered OSINT at lightspeed. Credit-based plans from $8/month.
-- 📦🆓 [Consensus OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) — Local MCP server for username, email and phone lookups, with structured, paginated results. Install the `mcp` extra and run `consensus mcp --transport stdio`; optional providers may need credentials.
+- 📦🆓 [Consensus OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) — Local MCP server for username, email, phone and web-page lookups, with structured, paginated results. 7 tools. Install the `mcp` extra and run `consensus mcp --transport stdio`; optional providers may need credentials.
 - 📦🆓 [Maigret](https://github.com/BurtTheCoder/mcp-maigret) — Collect user account information from various public sources by username.
 - 📦💰 [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) — X (Twitter) data extraction and automation with 40+ REST API endpoints, real-time account monitoring, and trending topics. MCP server with API key auth.
 - 📦💰 [TwitterAPIs MCP](https://github.com/TwitterAPIs/twitterapis-mcp) — Tweet search, user profiles, followers, timelines and account monitoring on X without an X developer account — 68 read tools, plus 44 that post and act as the connected account. One API key, pay per call at $0.0008 with $0.50 of starter credit. MCP: https://www.twitterapis.com/mcp
@@ -140,7 +140,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 ## Media Verification & Provenance
 
-- 🆓 [isGenAI](https://isgenai.com/developers/mcp) — Checks images, web pages and text for recorded evidence of AI use: C2PA Content Credentials (signature validation and signer trust reported separately), IPTC AI labels, AI-use statements, prompts saved by AUTOMATIC1111/ComfyUI/InvokeAI/NovelAI, and EXIF/XMP metadata, quoting each source. 5 read-only tools, no API key. Remote streamable-HTTP MCP: `https://isgenai.com/mcp`
+- 🆓 [isGenAI](https://isgenai.com/developers/mcp) — Checks images, web pages and text for recorded evidence of AI use: C2PA Content Credentials (signature validation and signer trust reported separately), IPTC AI labels, AI-use statements, prompts saved by AUTOMATIC1111/ComfyUI/InvokeAI/NovelAI, and EXIF/XMP metadata, quoting each source. 5 read-only tools, no API key. Remote streamable-HTTP MCP: https://isgenai.com/mcp
 
 ## Meta / Discovery
 
@@ -152,7 +152,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 🆓💰 [Iris](https://iriscan.app/mcp) — Who is behind a wallet on Solana, EVM chains, Bitcoin or Tron: who funded it, where its money went, labels from 640,000+ known addresses with their source, and traces through mixers and bridges. 6 tools. API key; 10 free analyses, then 3 a day. MCP: https://iriscan.app/mcp
 - 💰 [TWZRD Agent Intel](https://intel.twzrd.xyz) — Blockchain OSINT for AI agent trust scoring — reads public Solana on-chain data (wallet history, transaction patterns) to score agent trustworthiness. Free preflight + paid signed V5 trust receipts via x402 micropayments. MCP: https://intel.twzrd.xyz/mcp
 - 💰 [The Stall](https://github.com/thebrierfox/the-stall) — Multi-tool blockchain OSINT server: OFAC sanctions screening (19,000+ SDN entries, fuzzy name match + AKA aliases), wallet risk scoring, agent KYA trust scoring, EVM and Solana transaction intelligence, and token security analysis. Pay-per-call via x402 USDC micropayments on Base — no accounts or API keys. MCP: https://the-stall.intuitek.ai/mcp
-- 🆓💰 [Tanod](https://tanod.dev) — Pre-transaction risk verdict for Ethereum and Base addresses, OFAC SDN crypto-address screening, token, transaction and ENS lookups, plus RDAP, DNS and IP lookups. 200 tools in all, most of them general-purpose utilities (documents, images, text, weather). Small free daily tier, then pay per call via x402 (USDC on Base or Polygon); no account. MCP: https://tanod.dev/mcp
+- 🆓💰 [Tanod](https://tanod.dev) — Pre-transaction risk verdict for Ethereum and Base addresses, OFAC SDN crypto-address screening, token, transaction and ENS lookups, plus RDAP, DNS and IP lookups. 200+ tools, most of them general-purpose utilities (documents, images, text, weather). Small free daily tier, then pay per call via x402 (USDC on Base or Polygon); no account. MCP: https://tanod.dev/mcp
 
 ## Market & Trading
 
