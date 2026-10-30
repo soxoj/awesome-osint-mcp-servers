@@ -26,6 +26,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - [Threat Intelligence](#threat-intelligence)
 - [Geospatial & Geopolitical Intelligence](#geospatial--geopolitical-intelligence)
 - [Research Intelligence](#research-intelligence)
+- [Media Verification & Provenance](#media-verification--provenance)
 - [Meta / Discovery](#meta--discovery)
 - [Blockchain Intelligence](#blockchain-intelligence)
 - [Market & Trading](#market--trading)
@@ -136,6 +137,10 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Research Intelligence
 
 - 🆓💰 [BGPT MCP](https://bgpt.pro/mcp/) — Scientific paper search with structured full-text evidence: methods, sample sizes, results, limitations, quality scores, and falsification prompts. Useful for claim verification and literature OSINT. Remote MCP + REST. Free tier: 50 results, then $0.02 per result. MCP: https://bgpt.pro/mcp/sse
+
+## Media Verification & Provenance
+
+- 🆓 [isGenAI](https://isgenai.com/developers/mcp) — Checks images, web pages and text for recorded evidence of AI use: C2PA Content Credentials (signature validation and signer trust reported separately), IPTC AI labels, AI-use statements, prompts saved by AUTOMATIC1111/ComfyUI/InvokeAI/NovelAI, and EXIF/XMP metadata, quoting each source. 5 read-only tools, no API key. Remote streamable-HTTP MCP: `https://isgenai.com/mcp`
 
 ## Meta / Discovery
 
