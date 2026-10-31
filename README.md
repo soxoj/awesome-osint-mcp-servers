@@ -126,6 +126,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓 [XposedOrNot](https://github.com/XposedOrNot/XposedOrNot-API) — XposedOrNot data breach lookups for emails and domains: the breaches an address appears in, its full breach history, the public breach catalog, domain exposure counts and recent breaches. Read-only, never returns passwords, no API key. MCP: https://api.xposedornot.com/mcp
 - 📦🆓 [Vulnerability Exposure](https://github.com/MRFrazer25/Vulnerability-Exposure-MCP) — Checks a public IP, domain, CVE ID or software version for confirmed vulnerabilities: NVD version ranges, CISA KEV, EPSS, distro backports, Shodan and published exploits. 16 tools, runs locally over stdio; every API key is optional.
 - 📦🆓 [CRED-1](https://github.com/aloth/cred-1) — Local lookup of news-domain credibility: 2,600+ domains from public source-rating lists (OpenSources, Iffy.news) labeled fake, unreliable, mixed, conspiracy or satire, with a 0 to 1 score. 5 tools (check_domain, batch_check, search_domains, get_stats, get_categories); `npx -y @aloth/cred1 --mcp`, no API key. CC BY 4.0, weekly releases.
+- 📦🆓 [ichi-mcp](https://github.com/bernik-bot/ichi-mcp) — Daily internet-wide cyber-health barometer from ichi.global: current threat band and per-dimension score breakdown, recent critical-advisory alerts, and source health. Three read-only tools, no API key. `uvx --from git+https://github.com/bernik-bot/ichi-mcp ichi-mcp`
 
 ## Geospatial & Geopolitical Intelligence
 
