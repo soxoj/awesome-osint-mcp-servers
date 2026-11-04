@@ -52,6 +52,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 🆓💰 [LurkAPI](https://lurkapi.com) — Public profiles, posts, comments, video transcripts and ad library entries from TikTok, Instagram, YouTube, Reddit, X, LinkedIn and 10 more platforms, read without logging in. 89 tools. Hosted, OAuth or API key; 100 free credits, then paid packs. MCP: https://api.lurkapi.com/mcp
 
 - 💰 [TikTok Scraper](https://apify.com/harshmaur/tiktok-scraper) — Collect public TikTok videos, creator profiles, comments and follower lists for social-media research. Returns engagement counts and publication dates. No TikTok login; requires an Apify account and is paid per result. MCP: https://mcp.apify.com/?tools=harshmaur/tiktok-scraper
+- 📦🆓💰 [TikTokAPI.io MCP](https://github.com/kaitoInfra/tiktokapi-mcp-server) — Real-time TikTok SOCMINT: search public videos by keyword and region, inspect creator profiles, paginated follower/following lists (200/call), comments and reply threads, 1080p watermark-free video streams, and TikTok Creative Center commercial ad library. Local over stdio (`npx -y github:kaitoInfra/tiktokapi-mcp-server`); no TikTok login or proxies required. 2,000 free credits at signup, then pay-as-you-go ($0.20/1,000 videos). MCP: https://tiktokapi.io/mcp
 
 ## Network Scanning
 
