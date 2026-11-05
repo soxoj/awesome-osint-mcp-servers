@@ -142,6 +142,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Research Intelligence
 
 - 🆓💰 [BGPT MCP](https://bgpt.pro/mcp/) — Scientific paper search with structured full-text evidence: methods, sample sizes, results, limitations, quality scores, and falsification prompts. Useful for claim verification and literature OSINT. Remote MCP + REST. Free tier: 50 results, then $0.02 per result. MCP: https://bgpt.pro/mcp/sse
+- 🆓 [StatOrigin](https://statorigin.org/) — Free, verified statistics for 32 industries; every figure cites its primary source (publisher, report, page and quote), useful for claim verification and citation checking. Remote streamable-HTTP MCP: https://statorigin.org/mcp
 
 ## Media Verification & Provenance
 
