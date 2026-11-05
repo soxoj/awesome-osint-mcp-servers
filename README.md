@@ -101,6 +101,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 🆓 [Auregistre](https://auregistre.fr/api) — Dated history of a French company by SIREN, from the official BODACC gazette since 2008: changes of name, seat, capital and activity, insolvency judgments, filed accounts, ADEME grants and state aid. No key, no account. MCP: https://auregistre.fr/api/mcp
 - 📦🆓 [open-data-mcp](https://github.com/markatdataandbeyond/open-data-mcp) — Free local stdio MCP with official open-data tools: EU VAT (VIES) + LEI (GLEIF), French Sirene and Nordic company registries, TED tenders, PubMed, ClinicalTrials.gov, NHTSA VIN recalls and more. No API key for basic tools. MIT. `npm ci && node src/index.js`
 - 💰 [Company Social Profile Finder](https://github.com/GeminiGeorge22/company-social-mcp) — Resolves a company name, website or Google Maps listing to its LinkedIn, X, YouTube, Instagram and Facebook handles, with the evidence behind each link. Hosted on Apify; needs an Apify account (OAuth or API token). MCP: https://mcp.apify.com/?tools=publicrecords/company-social-profile-finder
+- 💰 [Crunchbase Company API](https://alphaosint.com/sources/crunchbase-company-api/) — Unofficial wrapper for Crunchbase company data: funding rounds, investors, headcount range, founders and key people. Hosted on Apify; needs an Apify account (OAuth or API token). MCP: https://mcp.apify.com/?tools=johnvc/crunchbase-company-api
 
 ## Public Records & Compliance
 
