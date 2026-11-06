@@ -70,6 +70,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 🆓💰 [IP99](https://ip99.com) — Risk score and geolocation for any IPv4/IPv6 address: proxy, VPN, dial-up pool and datacenter signals, each with the age of the evidence behind it, plus ASN, usage type and city. One MCP tool, no API key, 500 lookups/day; the same backend also serves passive DNS, CT and new-domain feeds over HTTP. MCP: https://ip99.com/mcp
 - 📦💰 [MCP Toolbelt](https://github.com/papacasper/mcp-toolbelt) — Hosted MCP server for domain and network reconnaissance: WHOIS and DNS lookups, subdomain discovery, SSL/TLS checks, open-port and ASN lookups, plus security-header and exposed-file audits for attack-surface mapping. 29 tools, pay per call in USDC via x402, no API key or account required. MCP: https://papacasper.com/mcp
 - 📦🆓💰 [APIVerve](https://github.com/apiverve/mcp-server) — Domain, IP and contact enrichment behind one key: WHOIS, DNS and reverse DNS, subdomains, SSL certificates, IP geolocation and ASN, Tor/VPN/proxy and blacklist checks, phishing-domain checks, email and phone validation, password breach checks and sanctions screening. Requires an API key; free tier and paid plans. MCP: https://api.apiverve.com/v1/mcp
+- 📦🆓 [Subdomain Finder MCP](https://github.com/theluckystrike/subdomain-finder-mcp) — Passive subdomain enumeration from certificate transparency logs (certspotter, crt.sh), with DNS over HTTPS checks that flag live hosts and dangling CNAMEs, plus certificate history per host. No API key. MCP: https://subdomain-finder-mcp.lipmichal.workers.dev/mcp
 
 ## Web Scraping
 
@@ -101,6 +102,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 🆓 [Auregistre](https://auregistre.fr/api) — Dated history of a French company by SIREN, from the official BODACC gazette since 2008: changes of name, seat, capital and activity, insolvency judgments, filed accounts, ADEME grants and state aid. No key, no account. MCP: https://auregistre.fr/api/mcp
 - 📦🆓 [open-data-mcp](https://github.com/markatdataandbeyond/open-data-mcp) — Free local stdio MCP with official open-data tools: EU VAT (VIES) + LEI (GLEIF), French Sirene and Nordic company registries, TED tenders, PubMed, ClinicalTrials.gov, NHTSA VIN recalls and more. No API key for basic tools. MIT. `npm ci && node src/index.js`
 - 💰 [Company Social Profile Finder](https://github.com/GeminiGeorge22/company-social-mcp) — Resolves a company name, website or Google Maps listing to its LinkedIn, X, YouTube, Instagram and Facebook handles, with the evidence behind each link. Hosted on Apify; needs an Apify account (OAuth or API token). MCP: https://mcp.apify.com/?tools=publicrecords/company-social-profile-finder
+- 💰 [Crunchbase Company API](https://alphaosint.com/sources/crunchbase-company-api/) — Unofficial wrapper for Crunchbase company data: funding rounds, investors, headcount range, founders and key people. Hosted on Apify; needs an Apify account (OAuth or API token). MCP: https://mcp.apify.com/?tools=johnvc/crunchbase-company-api
 - 📦💰 [Google Ads Transparency MCP](https://github.com/GeminiGeorge22/google-ads-transparency-mcp) — Competitor ad intelligence from the Google Ads Transparency Center: give it a domain, advertiser ID, Transparency Center link or advertiser name and get the ads that are new, still running or stopped, with first and last shown dates, format and ad links. Open-source stdio server (`npx -y github:GeminiGeorge22/google-ads-transparency-mcp` or `uvx google-ads-transparency-mcp-server`); tool calls use your own Apify token. MCP: https://mcp.apify.com?tools=publicrecords/google-ads-transparency-scraper
 
 ## Public Records & Compliance
@@ -142,6 +144,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Research Intelligence
 
 - 🆓💰 [BGPT MCP](https://bgpt.pro/mcp/) — Scientific paper search with structured full-text evidence: methods, sample sizes, results, limitations, quality scores, and falsification prompts. Useful for claim verification and literature OSINT. Remote MCP + REST. Free tier: 50 results, then $0.02 per result. MCP: https://bgpt.pro/mcp/sse
+- 🆓 [StatOrigin](https://statorigin.org/) — Free, verified statistics for 32 industries; every figure cites its primary source (publisher, report, page and quote), useful for claim verification and citation checking. Remote streamable-HTTP MCP: https://statorigin.org/mcp
 
 ## Media Verification & Provenance
 
