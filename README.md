@@ -73,6 +73,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓💰 [APIVerve](https://github.com/apiverve/mcp-server) — Domain, IP and contact enrichment behind one key: WHOIS, DNS and reverse DNS, subdomains, SSL certificates, IP geolocation and ASN, Tor/VPN/proxy and blacklist checks, phishing-domain checks, email and phone validation, password breach checks and sanctions screening. Requires an API key; free tier and paid plans. MCP: https://api.apiverve.com/v1/mcp
 - 📦🆓 [Subdomain Finder MCP](https://github.com/theluckystrike/subdomain-finder-mcp) — Passive subdomain enumeration from certificate transparency logs (certspotter, crt.sh), with DNS over HTTPS checks that flag live hosts and dangling CNAMEs, plus certificate history per host. No API key. MCP: https://subdomain-finder-mcp.lipmichal.workers.dev/mcp
 - 📦🆓💰 [WhoisFreaks](https://github.com/WhoisFreaks/whoisfreaks-mcp-server) — 14 tools: live and historical WHOIS, reverse WHOIS, IP and ASN WHOIS, live, historical and reverse DNS, subdomains, domain discovery and availability, IP geolocation and security, and SSL lookups. Java (stdio) or Docker (SSE); API key with 500 free credits on signup, then paid plans.
+- 📦🆓💰 [APIFreaks](https://github.com/api-freaks/apifreaks-mcp) — One key for domain, IP and contact recon: historical and reverse WHOIS and DNS, subdomains, typosquats, domain reputation, IP threat scoring, email, phone and IBAN/SWIFT validation, screenshots and scraping. npx (stdio); API key, 10,000 free credits, then paid.
 
 ## Web Scraping
 
