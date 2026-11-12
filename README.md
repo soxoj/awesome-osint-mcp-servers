@@ -123,6 +123,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 ## Threat Intelligence
 
+- 🆓 [Excession Labs CVE intelligence](https://excessionlabs.ai/cve-intelligence/) — Search CVEs and source software/version evidence, with available CISA KEV and dated FIRST EPSS. Six read-only tools include coverage, collection health and hosted change history. Version filters match source assertions; applicability is not evaluated. Free, no account or API key. MCP: https://excessionlabs.ai/mcp/cve
 - 📦🆓 [VirusTotal](https://github.com/BurtTheCoder/mcp-virustotal) — Analyze URLs, files (by hash), IPs, and domains with detailed relationship mapping. Free API tier available, requires `VIRUSTOTAL_API_KEY`.
 - 📦🆓 [Voidly](https://www.npmjs.com/package/@voidly/mcp-server) — Global internet censorship intelligence: 116 tools across 119+ countries. Query OONI / IODA / CensoredPlanet evidence, look up 5,356 citable incidents, check if a domain or service is blocked in a country, fetch ISP-level risk scores, run ML-driven shutdown forecasts, and verify censorship claims. Free, no API key needed for read endpoints. `npx @voidly/mcp-server`.
 - 📦🆓 [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI.
