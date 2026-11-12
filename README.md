@@ -53,6 +53,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 💰 [TikTok Scraper](https://apify.com/harshmaur/tiktok-scraper) — Collect public TikTok videos, creator profiles, comments and follower lists for social-media research. Returns engagement counts and publication dates. No TikTok login; requires an Apify account and is paid per result. MCP: https://mcp.apify.com/?tools=harshmaur/tiktok-scraper
 - 📦💰 [SandBase CLI](https://github.com/sandbaseai/cli) — Local MCP bridge for social/web OSINT: X/Twitter, YouTube, Reddit, TikTok, Instagram, Xiaohongshu, Weibo, Bilibili, and page scraping via discover/inspect/run tools. Apache-2.0; browser OAuth; `npx -y @sandbaseai/cli@latest connect`.
+- 🆓💰 [ReadGZH](https://github.com/sweesama/readgzh) — Full text of public WeChat Official Account articles (mp.weixin.qq.com links) as Markdown with title, account and publish time, plus keyword search and per-account listing over ReadGZH's own cache (not all of WeChat). Hosted, 5 tools; API key from the dashboard, anonymous use has shared-IP limits; paid credit packs. MCP: https://api.readgzh.site/mcp-server
 
 ## Network Scanning
 
