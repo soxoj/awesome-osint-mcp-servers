@@ -153,6 +153,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Media Verification & Provenance
 
 - 🆓 [isGenAI](https://isgenai.com/developers/mcp) — Checks images, web pages and text for recorded evidence of AI use: C2PA Content Credentials (signature validation and signer trust reported separately), IPTC AI labels, AI-use statements, prompts saved by AUTOMATIC1111/ComfyUI/InvokeAI/NovelAI, and EXIF/XMP metadata, quoting each source. 5 read-only tools, no API key. Remote streamable-HTTP MCP: https://isgenai.com/mcp
+- 📦🆓 [KaijuConverter](https://github.com/PabloCirre/kaijuconverter-mcp) — Fast MCP server for universal media format validation, metadata inspection, OCR, and conversion across 201+ audio, video, document, and image formats. MCP: https://kaijuconverter.com/api/mcp
 
 ## Meta / Discovery
 
