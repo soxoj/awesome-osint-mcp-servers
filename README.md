@@ -90,6 +90,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 🆓💰 [Serply MCP](https://serply.io/mcp) — Google web, News, Jobs and Scholar search with `site:`/`filetype:` operators passed through, plus Bing, page scraping and Reddit lookups (subreddit posts, full threads, a user's post and comment history). Requires an API key; 2,500 free credits for 30 days. MCP: https://api.serply.io/mcp
 - 📦🆓💰 [AgentSearch MCP](https://github.com/agentsearchhq-coder/agentsearch-mcp) — Live web search, any URL to clean Markdown, and JS-heavy page rendering for researching people, companies and domains from public pages. Search is keyless (up to 25/day per IP); extract, render and paid search are $0.005 per call. `npx -y @agentsearchhq/agentsearch-mcp`
 - 🆓💰 [Bowmark](https://bowmark.ai) — Live structured data from 750+ sites (LinkedIn, X, Instagram, Reddit, YouTube and more) through a library of tested functions: find one with `get_library`, call it with `run`, get typed JSON back. Needs a Bowmark account; starts with a free $10. MCP: https://api.bowmark.ai/mcp
+- 📦🆓 [HProxy](https://github.com/hproxy-com/hproxy-mcp) — Live free proxies by country, protocol and anonymity, a real test of any proxy (alive, anonymity, latency, exit location) and IP lookup with location, ASN and network. Useful for routing research traffic away from your own IP. Hosted, 3 tools, no key or signup. MCP: https://mcp.hproxy.com/mcp
 
 ## Company Intelligence
 
