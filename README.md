@@ -107,6 +107,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 💰 [Company Social Profile Finder](https://github.com/GeminiGeorge22/company-social-mcp) — Resolves a company name, website or Google Maps listing to its LinkedIn, X, YouTube, Instagram and Facebook handles, with the evidence behind each link. Hosted on Apify; needs an Apify account (OAuth or API token). MCP: https://mcp.apify.com/?tools=publicrecords/company-social-profile-finder
 - 💰 [Crunchbase Company API](https://alphaosint.com/sources/crunchbase-company-api/) — Unofficial wrapper for Crunchbase company data: funding rounds, investors, headcount range, founders and key people. Hosted on Apify; needs an Apify account (OAuth or API token). MCP: https://mcp.apify.com/?tools=johnvc/crunchbase-company-api
 - 📦💰 [Google Ads Transparency MCP](https://github.com/GeminiGeorge22/google-ads-transparency-mcp) — Competitor ad intelligence from the Google Ads Transparency Center: by domain, advertiser ID or name, get the ads that are new, still running or stopped, with first and last shown dates, format and links. One tool, stdio (`uvx google-ads-transparency-mcp-server`); calls use your own Apify token.
+- 🆓💰 [cvrradar](https://cvrradar.dk) — Danish company register (CVR) data: search by name, CVR number, domain or email, people and roles, annual accounts, ownership graph, credit rating and digital profile. Hosted remote MCP with OAuth or API key, plus REST API and npm CLI. Free tier with a free API key. MCP: https://mcp.cvrradar.dk/mcp
 
 ## Public Records & Compliance
 
