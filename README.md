@@ -174,6 +174,8 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 🆓💰 [Helium MCP](https://heliumtrades.com/mcp-page/) — News-source bias scoring with the quotes behind each score across 5,000+ sources, article and balanced-story search, a meme database searchable by OCR text, plus ML options pricing and ranked trade strategies. 10 tools. Free: 50 queries, no sign-up, then $0.02 per query. MCP: https://heliumtrades.com/mcp
 
+- 📦🆓 [OpenRadar](https://github.com/MikhailSagalaev/openradar) — Open-source labor market intelligence and vacancy search aggregating tech jobs and engineering contracts across Telegram, RSS feeds, and company job boards with live compensation analytics. Hosted MCP: https://openradar.fun/mcp
+
 ## Contributing
 
 Contributions are welcome! Please open a pull request to add a new OSINT MCP server to the list.
