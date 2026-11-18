@@ -56,6 +56,11 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦💰 [SandBase CLI](https://github.com/sandbaseai/cli) — Local MCP bridge for social/web OSINT: X/Twitter, YouTube, Reddit, TikTok, Instagram, Xiaohongshu, Weibo, Bilibili, and page scraping via discover/inspect/run tools. Apache-2.0; browser OAuth; `npx -y @sandbaseai/cli@latest connect`.
 - 🆓💰 [ReadGZH](https://github.com/sweesama/readgzh) — Full text of public WeChat Official Account articles (mp.weixin.qq.com links) as Markdown with title, account and publish time, plus keyword search and per-account listing over ReadGZH's own cache (not all of WeChat). Hosted, 5 tools; API key from the dashboard, anonymous use has shared-IP limits; paid credit packs. MCP: https://api.readgzh.site/mcp-server
 - 🆓💰 [Social Fetch](https://github.com/social-freak-ltd/socialfetch-mcp) — Public posts, profiles, comments, transcripts and search from TikTok, Instagram, LinkedIn, X, YouTube, Reddit and other platforms, without a per-platform developer account. Hosted, OAuth or an API key, 100 free credits on signup, then paid packs. MCP: https://api.socialfetch.dev/mcp
+- 📦🆓💰 [TikTok Intelligence](https://github.com/willowswt/tiktok-intelligence-mcp) — Search TikTok videos, extract spoken viral hooks and full WebVTT transcripts, discover creator emails, mine buyer-intent comments, and track brand sponsors. 6 tools. Free tier ($5/mo credit) and paid plans. MCP: https://church-of-loujess--tiktok-intelligence-mcp.apify.actor/mcp
+- 📦🆓💰 [YouTube Transcript & Creator Email OSINT](https://github.com/willowswt/youtube-transcript-leads-mcp) — Extract full multi-language YouTube transcripts with timestamped RAG chunks and discover creator business inquiry emails and sponsor links. 2 tools. Free tier ($5/mo credit) and paid plans. MCP: https://mcp.apify.com/?actors=church_of_loujess/youtube-transcript-rag-scraper
+- 📦🆓💰 [Telegram Channel & Message OSINT](https://github.com/willowswt/telegram-osint-mcp) — Scrape public Telegram channel metadata, paginated messages, outbound URLs, emails, and crypto wallet/contract addresses. 2 tools. Free tier ($5/mo credit) and paid plans. MCP: https://mcp.apify.com/?actors=church_of_loujess/telegram-scraper
+- 📦🆓💰 [GitHub Developer & Commit Email OSINT](https://github.com/willowswt/github-developer-leads-mcp) — Extract verified developer contact emails from public GitHub repositories via commit .patch inspection and personal website crawling. 2 tools. Free tier ($5/mo credit) and paid plans. MCP: https://mcp.apify.com/?actors=church_of_loujess/github-email-leads-scraper
+- 📦🆓💰 [Reddit Subreddit & Buyer-Intent OSINT](https://github.com/willowswt/reddit-intelligence-mcp) — Extract Reddit subreddit posts, top comment threads, outbound links, and B2B buyer-intent leads. 2 tools. Free tier ($5/mo credit) and paid plans. MCP: https://mcp.apify.com/?actors=church_of_loujess/reddit-scraper-fast
 
 ## Network Scanning
 
@@ -92,6 +97,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 🆓💰 [Serply MCP](https://serply.io/mcp) — Google web, News, Jobs and Scholar search with `site:`/`filetype:` operators passed through, plus Bing, page scraping and Reddit lookups (subreddit posts, full threads, a user's post and comment history). Requires an API key; 2,500 free credits for 30 days. MCP: https://api.serply.io/mcp
 - 📦🆓💰 [AgentSearch MCP](https://github.com/agentsearchhq-coder/agentsearch-mcp) — Web search, news search, URL-to-Markdown extract, JS render, screenshot and search_and_read for researching people, companies and domains from public pages. Keyless clients get search, extract and render with daily per-IP caps; the rest unlock once payment is configured. Pay-per-call via x402 on Base. `npx -y @agentsearchhq/agentsearch-mcp`
 - 🆓💰 [Bowmark](https://bowmark.ai) — Live structured data from 750+ sites (LinkedIn, X, Instagram, Reddit, YouTube and more) through a library of tested functions: find one with `get_library`, call it with `run`, get typed JSON back. Needs a Bowmark account; starts with a free $10. MCP: https://api.bowmark.ai/mcp
+- 📦🆓💰 [Website RAG Markdown & Contact Finder](https://github.com/willowswt/web-markdown-contacts-mcp) — Crawl domains into RAG Markdown chunks and extract corporate emails, phones, DNS MX providers, and 50+ tech stack signals. 2 tools. Free tier ($5/mo credit) and paid plans. MCP: https://mcp.apify.com/?actors=church_of_loujess/fast-website-content-crawler
 
 ## Company Intelligence
 
@@ -110,6 +116,8 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 💰 [Company Social Profile Finder](https://github.com/GeminiGeorge22/company-social-mcp) — Resolves a company name, website or Google Maps listing to its LinkedIn, X, YouTube, Instagram and Facebook handles, with the evidence behind each link. Hosted on Apify; needs an Apify account (OAuth or API token). MCP: https://mcp.apify.com/?tools=publicrecords/company-social-profile-finder
 - 💰 [Crunchbase Company API](https://alphaosint.com/sources/crunchbase-company-api/) — Unofficial wrapper for Crunchbase company data: funding rounds, investors, headcount range, founders and key people. Hosted on Apify; needs an Apify account (OAuth or API token). MCP: https://mcp.apify.com/?tools=johnvc/crunchbase-company-api
 - 📦💰 [Google Ads Transparency MCP](https://github.com/GeminiGeorge22/google-ads-transparency-mcp) — Competitor ad intelligence from the Google Ads Transparency Center: by domain, advertiser ID or name, get the ads that are new, still running or stopped, with first and last shown dates, format and links. One tool, stdio (`uvx google-ads-transparency-mcp-server`); calls use your own Apify token.
+- 📦🆓💰 [B2B Lead, Churn & Substack](https://github.com/willowswt/b2b-lead-churn-substack-mcp) — Extract B2B company decision-maker emails, Substack newsletter authors, Shopify competitor churn reviews, and bio-link contacts. 5 tools. Free tier ($5/mo credit) and paid plans. MCP: https://church-of-loujess--b2b-lead-churn-substack-mcp.apify.actor/mcp
+- 📦🆓💰 [SEC EDGAR & UK Companies House](https://github.com/willowswt/sec-edgar-companies-house-mcp) — Audit US SEC EDGAR 10-K/10-Q/8-K filings and XBRL financials, UK Companies House corporate registries and officers, and GLEIF global LEI parent/subsidiary ownership trees. 5 tools. Free tier ($5/mo credit) and paid plans. MCP: https://church-of-loujess--sec-edgar-companies-house-mcp.apify.actor/mcp
 
 ## Public Records & Compliance
 
@@ -153,6 +161,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 🆓💰 [BGPT MCP](https://bgpt.pro/mcp/) — Scientific paper search with structured full-text evidence: methods, sample sizes, results, limitations, quality scores, and falsification prompts. Useful for claim verification and literature OSINT. Remote MCP + REST. Free tier: 50 results, then $0.02 per result. MCP: https://bgpt.pro/mcp/sse
 - 🆓 [StatOrigin](https://statorigin.org/) — Free, verified statistics for 32 industries; every figure cites its primary source (publisher, report, page and quote), useful for claim verification and citation checking. Remote streamable-HTTP MCP: https://statorigin.org/mcp
+- 📦🆓💰 [Pharma FDA & ClinicalTrials](https://github.com/willowswt/pharma-fda-clinical-trials-mcp) — Query live ClinicalTrials.gov v2 clinical trial protocols, OpenFDA FAERS adverse events and drug recalls, and PubMed biomedical literature. 5 tools. Free tier ($5/mo credit) and paid plans. MCP: https://church-of-loujess--pharma-fda-clinical-trials-mcp.apify.actor/mcp
 
 ## Media Verification & Provenance
 
@@ -174,6 +183,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Market & Trading
 
 - 🆓💰 [Helium MCP](https://heliumtrades.com/mcp-page/) — News-source bias scoring with the quotes behind each score across 5,000+ sources, article and balanced-story search, a meme database searchable by OCR text, plus ML options pricing and ranked trade strategies. 10 tools. Free: 50 queries, no sign-up, then $0.02 per query. MCP: https://heliumtrades.com/mcp
+- 📦🆓💰 [Market News & Sentiment](https://github.com/willowswt/market-news-sentiment-mcp) — Real-time Yahoo Finance stock/crypto quotes and options chains, Google Trends breakouts, live financial news headlines, and Reddit/HackerNews social sentiment. 5 tools. Free tier ($5/mo credit) and paid plans. MCP: https://church-of-loujess--market-news-sentiment-mcp.apify.actor/mcp
 
 ## Contributing
 
