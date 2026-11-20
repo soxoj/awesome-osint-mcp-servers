@@ -56,6 +56,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦💰 [SandBase CLI](https://github.com/sandbaseai/cli) — Local MCP bridge for social/web OSINT: X/Twitter, YouTube, Reddit, TikTok, Instagram, Xiaohongshu, Weibo, Bilibili, and page scraping via discover/inspect/run tools. Apache-2.0; browser OAuth; `npx -y @sandbaseai/cli@latest connect`.
 - 🆓💰 [ReadGZH](https://github.com/sweesama/readgzh) — Full text of public WeChat Official Account articles (mp.weixin.qq.com links) as Markdown with title, account and publish time, plus keyword search and per-account listing over ReadGZH's own cache (not all of WeChat). Hosted, 5 tools; API key from the dashboard, anonymous use has shared-IP limits; paid credit packs. MCP: https://api.readgzh.site/mcp-server
 - 🆓💰 [Social Fetch](https://github.com/social-freak-ltd/socialfetch-mcp) — Public posts, profiles, comments, transcripts and search from TikTok, Instagram, LinkedIn, X, YouTube, Reddit and other platforms, without a per-platform developer account. Hosted, OAuth or an API key, 100 free credits on signup, then paid packs. MCP: https://api.socialfetch.dev/mcp
+- 💰 [LinkedIn People Search API](https://alphaosint.com/sources/linkedin-people-search-api/) — Unofficial search of public LinkedIn profiles by name, title, company, school or location: headline, employer, work history, education. No LinkedIn login; hosted on Apify (OAuth or API token). MCP: https://mcp.apify.com/?tools=johnvc/linkedin-people-search-api
 
 ## Network Scanning
 
