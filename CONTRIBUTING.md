@@ -19,14 +19,20 @@ If in doubt, ask: would an investigator or a security researcher doing recon use
 1. **The project is real and working.**
    - For a hosted MCP endpoint: we send a raw `initialize` handshake (`curl -X POST <url> -d '{"jsonrpc":"2.0",...,"method":"initialize",...}'`) and confirm it responds.
    - For an npm/PyPI package: we check that `package.json` actually has a working `bin` entry (a null or missing `bin` means `npx <package>` fails — instant reject) or that the source registers the claimed tools.
-   - Claimed tool/endpoint counts in the PR description must match what's actually in the code — we grep for `registerTool` / tool manifests / `tools/list` output rather than trusting the README.
+   - **Give us a measured tool count, and say how much of it is on-topic.** Run `tools/list` against your own server and paste the number you got, not the number in your README — we check it the same way. If the server does more than OSINT (market data, SEO, e-commerce, your own asset inventory), say so and roughly how much: "49 tools, a third of them weather and grid data" is a fine entry; "700 read-only tools" when `tools/list` returns 469 is not. A gated handshake is fine, but then say plainly that the count is yours rather than measured.
+   - **Don't pin a number that moves.** Tool counts on young servers, corpus sizes and record totals grow weekly — one entry here went from 12 tools to 19 in a day. Prefer "200+", or no number at all, over an exact figure that will be wrong in a month.
 
 2. **It fits an existing section, or a new section is justified.**
    We'd rather add one line to an existing category than create a one-entry section. New top-level sections are for genuinely new categories of OSINT, not a shelf for one submission.
 
 3. **The entry follows the existing format.**
-   `- {emoji} [Name](url) — one or two sentence description. MCP: <endpoint if hosted>`
+   ```
+   - {emoji} [Name](url) — one or two sentence description. MCP: https://host/mcp
+   - {emoji} [Name](url) — one or two sentence description. stdio (`npx -y package`)
+   ```
+   `MCP:` introduces a URL a client can connect to. If your server runs locally, don't put a shell command after `MCP:` — write ``stdio (`npx -y your-package`)`` or ``stdio (`uvx your-package`)`` instead, so a reader knows there's an install involved. Don't wrap the endpoint URL in backticks.
    Emoji legend: 📦 Open Source · 🆓 Free / Free tier · 💰 Paid. Use only the emoji that actually apply (a closed-source paid API isn't 📦; a project with a public repo is 📦 even if the API itself costs money).
+   📦 means a reader can go read the implementation. A repository holding only a README, a manifest and client config examples isn't open source for our purposes, even with a licence file — several contributors have dropped the marker themselves once this came up. A licence file is required too: a public repo with no licence grants nobody anything.
 
 4. **Spam signals lower the odds of a merge.** We check the author's PR history across GitHub (`gh search prs --author <user> --state all`). None of these auto-reject on their own, but the more of them apply, the less likely the PR gets merged:
    - The identical PR opened simultaneously across many unrelated awesome-lists (crypto lists, payment lists, generic API directories) — reads as a growth-hacking pattern rather than a genuine submission to this list specifically.
@@ -41,6 +47,10 @@ If in doubt, ask: would an investigator or a security researcher doing recon use
    ```bash
    grep -oP '^- \S+ \[[^\]]+\]\([^)]+\)\s+—\s+\K.*' README.md | awk 'length>400{print length": "$0}'
    ```
+
+7. **Leave pricing mechanics out.** "Free tier", "needs an API key", "paid plans from $X/mo" is as much as an index entry can carry. Per-call price lists, credit-pack sizes, wallet chains and promotional limits change faster than this list gets reread, and a stale price is worse than no price: it's confidently wrong. One recent submission spent half its 400 characters on six per-tool prices in USDC.
+
+8. **Updating an existing entry is welcome, especially your own.** Servers get rewritten and entries drift — one entry claimed 49 tools until its author came back with a corrected line showing 37. If you're editing a line that's over the 400-character cap, bring it under while you're there. Keep the diff to your own line: a rewrite that silently truncates a neighbouring entry is the one thing we always catch and always send back.
 
 ## Process
 
