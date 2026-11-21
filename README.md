@@ -59,6 +59,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 ## Network Scanning
 
+- 💰 [Cian Endpoint Audit](https://cian-x402.netlify.app/) — HTTP, TLS and DNS audit of one public URL in a single call: certificate validity and expiry, security headers, DNS records and reachable endpoints. Remote MCP server, no install and no account; handshake is free, each audit is 0.05 USDC on Base via x402. MCP: https://cian-x402.netlify.app/mcp
 - 📦🆓💰 [Shodan](https://github.com/BurtTheCoder/mcp-shodan) — Query the Shodan API and CVEDB for IP reconnaissance, DNS operations, vulnerability tracking, and device discovery. Free tier available with limited queries, requires Shodan API key.
 - 📦🆓💰 [ZoomEye](https://github.com/zoomeye-ai/mcp_zoomeye) — Obtain network asset information by querying ZoomEye using dorks and other search parameters. 7-day free trial available, requires ZoomEye API key.
 - 📦🆓 [DNSTwist](https://github.com/BurtTheCoder/mcp-dnstwist) — DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
