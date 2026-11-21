@@ -145,7 +145,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Meta / Discovery
 
 - 🆓 [Not Human Search](https://nothumansearch.ai) — Agent-first discovery engine for MCP servers. Search, score, and live-probe (`verify_mcp`) 8,600+ servers via JSON-RPC or REST API. Useful for pivoting between OSINT MCP tools. MCP: https://nothumansearch.ai/mcp
-- 📦🆓 [Claudii Exploratores](https://github.com/SOsintOps/claudii-exploratores) — Offline OSINT suite for Claude (Agent Skill + MCP server) over 909 curated search-URL templates in 26 categories, synced weekly from the Exploratores toolkit. Classifies an indicator (name, email, domain, IP, phone, username, IBAN, crypto, VIN, EU VAT, legal IDs…) and builds only the links that fit it, each flagged when the source is geo-locked (needs a VPN exit in a given country), Tor-only or login-only. Never fetches; read-only tools. Also an offline IBAN check and a reversible PII redactor. Python, AGPL-3.0. Alpha.
+- 📦🆓 [Claudii Exploratores](https://github.com/SOsintOps/claudii-exploratores) — Offline OSINT suite for Claude (Agent Skill + MCP server) over 909 curated search-URL templates in 26 categories, synced weekly from the Exploratores toolkit. Classifies an indicator and builds only the links that fit it, flagging sources that are geo-locked, Tor-only or login-only. Never fetches; read-only. Also an offline IBAN check and a reversible PII redactor. Python, AGPL-3.0. Alpha.
 
 ## Blockchain Intelligence
 
