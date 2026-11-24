@@ -168,6 +168,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 - 🆓 [Not Human Search](https://nothumansearch.ai) — Agent-first discovery engine for MCP servers. Search, score, and live-probe (`verify_mcp`) 8,600+ servers via JSON-RPC or REST API. Useful for pivoting between OSINT MCP tools. MCP: https://nothumansearch.ai/mcp
 - 📦🆓 [Claudii Exploratores](https://github.com/SOsintOps/claudii-exploratores) — Offline OSINT suite for Claude (Agent Skill + MCP server) over 909 curated search-URL templates in 26 categories, synced weekly from the Exploratores toolkit. Classifies an indicator and builds only the links that fit it, flagging sources that are geo-locked, Tor-only or login-only. Never fetches; read-only. Also an offline IBAN check and a reversible PII redactor. Python, AGPL-3.0. Alpha.
+- 🆓 [Signal Lab](https://signal-lab.qdt.ai) — Find open sources before you query them: a growing catalog of free data sources, updated daily (OSINT, news & RSS, public registries, geospatial and government open data among them), each with licence, sign-up needs and a daily reachability check, plus weekly public audits of MCP servers. MCP: https://signal-lab.qdt.ai/api/mcp
 
 ## Blockchain Intelligence
 
