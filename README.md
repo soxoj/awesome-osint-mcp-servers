@@ -56,6 +56,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦💰 [SandBase CLI](https://github.com/sandbaseai/cli) — Local MCP bridge for social/web OSINT: X/Twitter, YouTube, Reddit, TikTok, Instagram, Xiaohongshu, Weibo, Bilibili, and page scraping via discover/inspect/run tools. Apache-2.0; browser OAuth; `npx -y @sandbaseai/cli@latest connect`.
 - 🆓💰 [ReadGZH](https://github.com/sweesama/readgzh) — Full text of public WeChat Official Account articles (mp.weixin.qq.com links) as Markdown with title, account and publish time, plus keyword search and per-account listing over ReadGZH's own cache (not all of WeChat). Hosted, 5 tools; API key from the dashboard, anonymous use has shared-IP limits; paid credit packs. MCP: https://api.readgzh.site/mcp-server
 - 🆓💰 [Social Fetch](https://github.com/social-freak-ltd/socialfetch-mcp) — Public posts, profiles, comments, transcripts and search from TikTok, Instagram, LinkedIn, X, YouTube, Reddit and other platforms, without a per-platform developer account. Hosted, OAuth or an API key, 100 free credits on signup, then paid packs. MCP: https://api.socialfetch.dev/mcp
+- 📦🆓 [last30days](https://github.com/mvanhorn/last30days-skill) — Searches Reddit, X, YouTube, TikTok, Hacker News, Polymarket and the web for what was said about a topic in the last 30 days, ranked by engagement. 2 tools; Reddit and Hacker News need no key, other sources take optional keys. stdio (Claude Desktop `.mcpb` from GitHub Releases)
 
 ## Network Scanning
 
