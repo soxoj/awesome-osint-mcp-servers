@@ -12,6 +12,8 @@ Out of scope, even if well-built:
 - SEO, marketing, or growth tooling.
 - Consumer shopping / e-commerce APIs.
 
+**Mostly off-topic servers.** If fewer than a quarter of a server's tools are OSINT — we count them from `tools/list`, not from the description — and the same PR also went to lists that have nothing to do with OSINT, we decline. We want to recommend servers built for investigation, not serve as a distribution channel for general-purpose ones.
+
 If in doubt, ask: would an investigator or a security researcher doing recon use this to learn something about a person, company, domain, address, or attack surface? If not, it probably doesn't belong here.
 
 ## What we check before merging
@@ -35,7 +37,7 @@ If in doubt, ask: would an investigator or a security researcher doing recon use
    📦 means a reader can go read the implementation. A repository holding only a README, a manifest and client config examples isn't open source for our purposes, even with a licence file — several contributors have dropped the marker themselves once this came up. A licence file is required too: a public repo with no licence grants nobody anything.
 
 4. **Spam signals lower the odds of a merge.** We check the author's PR history across GitHub (`gh search prs --author <user> --state all`). None of these auto-reject on their own, but the more of them apply, the less likely the PR gets merged:
-   - The identical PR opened simultaneously across many unrelated awesome-lists (crypto lists, payment lists, generic API directories) — reads as a growth-hacking pattern rather than a genuine submission to this list specifically.
+   - The same PR sent to many unrelated awesome-lists (crypto, payments, generic API directories). On its own that's fine if the server is on-topic; together with a low on-topic share it's a decline — see Scope.
    - A growth/marketing plan file committed to the repo (star targets, posting schedules, SEO playbooks).
    - AI-generated PR titles stuffed with emojis, vague templated bodies, or descriptions that don't match the diff.
    - Tracking params (`utm_source`, etc.) baked into the listed URL — we'll usually just ask for a clean link.
