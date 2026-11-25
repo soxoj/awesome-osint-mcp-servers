@@ -182,6 +182,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Market & Trading
 
 - 🆓💰 [Helium MCP](https://heliumtrades.com/mcp-page/) — News-source bias scoring with the quotes behind each score across 5,000+ sources, article and balanced-story search, a meme database searchable by OCR text, plus ML options pricing and ranked trade strategies. 10 tools. Free: 50 queries, no sign-up, then $0.02 per query. MCP: https://heliumtrades.com/mcp
+- 📦🆓 [AlphaSift](https://github.com/ZhuLinsen/alphasift) — Open-source (Apache-2.0) multi-market equity intelligence, stock screening, and purged walk-forward empirical pattern validation MCP server covering 7 equity markets (CN/US/HK/JP/KR/TW/IN) with 14 read-only STDIO tools & 4 resources. Zero default API keys/credits required; `pip install alphasift` (`alphasift mcp`).
 
 ## Contributing
 
