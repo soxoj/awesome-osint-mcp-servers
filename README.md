@@ -98,6 +98,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓💰 [AgentSearch MCP](https://github.com/agentsearchhq-coder/agentsearch-mcp) — Web search, news search, URL-to-Markdown extract, JS render, screenshot and search_and_read for researching people, companies and domains from public pages. Keyless clients get search, extract and render with daily per-IP caps; the rest unlock once payment is configured. Pay-per-call via x402 on Base. `npx -y @agentsearchhq/agentsearch-mcp`
 - 🆓💰 [Bowmark](https://bowmark.ai) — Live structured data from 750+ sites (LinkedIn, X, Instagram, Reddit, YouTube and more) through a library of tested functions: find one with `get_library`, call it with `run`, get typed JSON back. Needs a Bowmark account; starts with a free $10. MCP: https://api.bowmark.ai/mcp
 - 📦🆓💰 [ClearFetch MCP](https://github.com/zenkdom/clearfetch) — URL-to-clean-Markdown reader, structured JSON schema extractor, and web search with residential anti-bot bypass for open-source intelligence and web recon. Free tier includes 500 credits on signup, then paid tiers. stdio (`npx -y clearfetch`)
+- 📦🆓 [HProxy](https://github.com/hproxy-com/hproxy-mcp) — Lists live public proxies by country, protocol and anonymity, tests any proxy for real (alive, anonymity, latency, exit location) and looks up IPs for location, ASN and network. The proxies are third-party and unvetted — a way to see a page from elsewhere, not a safe tunnel. Hosted, 3 tools, no key or signup. MCP: https://mcp.hproxy.com/mcp
 
 ## Company Intelligence
 
