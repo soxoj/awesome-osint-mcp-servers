@@ -33,7 +33,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 
 ## SOCMINT
 
-- 🆓💰 [Arcmira](https://arcmira.com/) — YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. Requires Arcmira sign-in or an API key; free tier and paid plans. MCP: https://mcp.arcmira.com/mcp
+- 🆓💰 [Arcmira](https://arcmira.com/) — Search indexed YouTube transcripts for who said a given thing and when: exact quotes with source timestamps and speakers, plus monitoring for new mentions. Requires Arcmira sign-in or an API key; free tier and paid plans. MCP: https://mcp.arcmira.com/mcp
 - 💰 [Expose Team](https://expose.team?utm_source=github.com&utm_campaign=soxoj_awesome_osint_mcp_servers) — AI-powered OSINT at lightspeed. Credit-based plans from $8/month.
 - 📦🆓 [Consensus OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) — Local MCP server for username, email, phone and web-page lookups, with structured, paginated results. 7 tools. Install the `mcp` extra and run `consensus mcp --transport stdio`; optional providers may need credentials.
 - 📦🆓 [Maigret](https://github.com/BurtTheCoder/mcp-maigret) — Collect user account information from various public sources by username.
