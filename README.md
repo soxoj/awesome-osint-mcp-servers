@@ -147,6 +147,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓 [Vulnerability Exposure](https://github.com/MRFrazer25/Vulnerability-Exposure-MCP) — Checks a public IP, domain, CVE ID or software version for confirmed vulnerabilities: NVD version ranges, CISA KEV, EPSS, distro backports, Shodan and published exploits. 16 tools, runs locally over stdio; every API key is optional.
 - 📦🆓 [CRED-1](https://github.com/aloth/cred-1) — Local lookup of news-domain credibility: 2,600+ domains from public source-rating lists (OpenSources, Iffy.news) labeled fake, unreliable, mixed, conspiracy or satire, with a 0 to 1 score. 5 tools (check_domain, batch_check, search_domains, get_stats, get_categories); `npx -y @aloth/cred1 --mcp`, no API key. CC BY 4.0, weekly releases.
 - 🆓 [Midkernel Threat Intel](https://www.midkernel.com/security/threat-intel) — Public-source threat intelligence over MCP: daily cited report, changes since a timestamp, trend counts by threat class, and KEV status joined by CVE. Free, no account or API key; rate limited per IP. MCP: https://www.midkernel.com/security/app/mcp/threat-intel
+- 💰 [Have I Been Ransomed?](https://haveibeenransom.com/howmcp) — Checks one email or domain per search against ransomware leaks and data breaches and returns match counts with up to 10 related sources, but no passwords or raw files. Only authorized targets: your verified account email, then other emails and domains once verified. 2 tools, OAuth, paid plans. MCP: https://haveibeenransom.com/mcp
 
 ## Geospatial & Geopolitical Intelligence
 
