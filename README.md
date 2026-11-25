@@ -176,6 +176,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 ## Media Verification & Provenance
 
 - 🆓 [isGenAI](https://isgenai.com/developers/mcp) — Checks images, web pages and text for recorded evidence of AI use: C2PA Content Credentials (signature validation and signer trust reported separately), IPTC AI labels, AI-use statements, prompts saved by AUTOMATIC1111/ComfyUI/InvokeAI/NovelAI, and EXIF/XMP metadata, quoting each source. 5 read-only tools, no API key. Remote streamable-HTTP MCP: https://isgenai.com/mcp
+- 💰 [Google Lens API](https://alphaosint.com/sources/google-lens-api/) — Unofficial Google Lens reverse image search from an image URL, upload or base64: visually similar images, or every page carrying the exact same image, each with title, source site, page link and thumbnail. Hosted on Apify (OAuth or API token). MCP: https://mcp.apify.com/?tools=johnvc/google-lens-api
 
 ## Meta / Discovery
 
