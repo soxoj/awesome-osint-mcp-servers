@@ -121,6 +121,8 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓💰 [Equibles](https://github.com/daniel3303/Equibles) — Who owns and trades a US public company: full-text search of SEC filings, Form 4 insider trades, Form 144 notices, 13F holders, 13D/G stakes, congressional trades and federal contracts. Self-hostable (AGPL-3.0); the hosted server needs an account, free tier 100 requests/day. MCP: https://mcp.equibles.com/mcp
 - 📦🆓💰 [SONAR KYB](https://github.com/Ivanolegvak/getsonar-mcp) — KYB checks on a company from public records: live lookups in official company registers across the UK, Europe and more, sanctions and PEP screening, ICIJ Offshore Leaks and 10 years of adverse media, each finding naming its source. stdio (`uvx getsonar-mcp`); needs a SONAR API key, first 100 lookups and first screening call free.
 
+- 📦🆓💰 [ClearStack Data MCP](https://github.com/Wordhalm/clearstack-data-mcp) — Read-only OSINT server covering EU company/VAT verification (VIES, SIRENE, Zefix, Brreg, PRH, GLEIF LEI), public Telegram channels, Google Ads Transparency Center, and company ATS career sites. 5 tools (`verify_eu_company`, `get_telegram_channel_posts`, `search_google_ads`, `search_ats_jobs`, `get_run_results`); stdio (`npx -y clearstack-data-mcp`); runs bill to your own Apify token (Apify free tier covers small runs) with per-call spending caps. MIT.
+
 ## Public Records & Compliance
 
 - 🆓💰 [Carrier Ledger](https://github.com/equinoxaifinance-rgb/carrier-ledger-docs) — Look up U.S. trucking companies and freight brokers in FMCSA public records; every fact cites the FMCSA dataset it came from. Read-only, not affiliated with FMCSA. MCP: https://carrierledger.tryneverclosed.com/mcp
