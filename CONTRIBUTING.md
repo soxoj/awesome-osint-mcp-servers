@@ -60,3 +60,4 @@ If in doubt, ask: would an investigator or a security researcher doing recon use
 - We verify live (handshake / package inspection), not just by reading the README.
 - If a submission fails on scope or looks like cross-posted spam, we close with a short explanation rather than leaving it open.
 - If it's a real project that's simply in the wrong place or missing something (wrong emoji, wrong section, broken link), we'll ask for a fix instead of closing.
+- If we ask for changes and the PR sees no update for 15 days, we make the edit ourselves and merge. Leave "Allow edits by maintainers" on so we can.
