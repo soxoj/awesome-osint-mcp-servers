@@ -81,6 +81,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓💰 [APIVerve](https://github.com/apiverve/mcp-server) — Domain, IP and contact enrichment behind one key: WHOIS, DNS and reverse DNS, subdomains, SSL certificates, IP geolocation and ASN, Tor/VPN/proxy and blacklist checks, phishing-domain checks, email and phone validation, password breach checks and sanctions screening. Requires an API key; free tier and paid plans. MCP: https://api.apiverve.com/v1/mcp
 - 📦🆓 [Subdomain Finder MCP](https://github.com/theluckystrike/subdomain-finder-mcp) — Passive subdomain enumeration from certificate transparency logs (certspotter, crt.sh), with DNS over HTTPS checks that flag live hosts and dangling CNAMEs, plus certificate history per host. No API key. MCP: https://subdomain-finder-mcp.lipmichal.workers.dev/mcp
 - 📦🆓💰 [WhoisFreaks](https://github.com/WhoisFreaks/whoisfreaks-mcp-server) — 14 tools: live and historical WHOIS, reverse WHOIS, IP and ASN WHOIS, live, historical and reverse DNS, subdomains, domain discovery and availability, IP geolocation and security, and SSL lookups. Java (stdio) or Docker (SSE); API key with 500 free credits on signup, then paid plans.
+- 🆓💰 [DNS Lookup](https://apify.com/publicrecords/dns-lookup) — Bulk DNS records (A, MX, NS, TXT, SPF, DMARC and email provider) for a list of domains, one row per domain. Requires your own Apify account (OAuth or API token); pay per event. Hosted handshake is gated (needs an Apify token). MCP: https://mcp.apify.com?tools=publicrecords/dns-lookup
 
 ## Web Scraping
 
