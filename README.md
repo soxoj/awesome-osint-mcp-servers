@@ -100,6 +100,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓💰 [ClearFetch MCP](https://github.com/zenkdom/clearfetch) — URL-to-clean-Markdown reader, structured JSON schema extractor, and web search with residential anti-bot bypass for open-source intelligence and web recon. Free tier includes 500 credits on signup, then paid tiers. stdio (`npx -y clearfetch`)
 - 📦🆓 [HProxy](https://github.com/hproxy-com/hproxy-mcp) — Lists live public proxies by country, protocol and anonymity, tests any proxy for real (alive, anonymity, latency, exit location) and looks up IPs for location, ASN and network. The proxies are third-party and unvetted — a way to see a page from elsewhere, not a safe tunnel. Hosted, 3 tools, no key or signup. MCP: https://mcp.hproxy.com/mcp
 - 📦🆓💰 [StackScope Tech Stack & Ad Pixel MCP](https://github.com/yun87457-web/tech-stack-ad-pixel-mcp) — Browserless domain reconnaissance detecting 180+ technologies, consent-gated GTM ad pixels (Google Ads, Meta, Reddit, LinkedIn, TikTok), `/ads.txt` sellers, and 70+ DNS-verified B2B SaaS tools (`MX`/`TXT`/`DMARC`), with automatic DNS fallback on WAF 403 sites. Zero-dep stdio (`npx -y github:yun87457-web/tech-stack-ad-pixel-mcp`) or hosted MCP via Apify/RapidAPI free tiers.
+- [The SEO Agent MCP](https://github.com/jeremy665/theseoagent-mcp) - Open-source TypeScript MCP server for crawling websites, extracting technical SEO and structured data signals, and running keyword research.
 
 ## Company Intelligence
 
