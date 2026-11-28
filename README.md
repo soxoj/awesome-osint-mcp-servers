@@ -1,6 +1,7 @@
 <div align="center">
 
 # Awesome OSINT MCP Servers
+- [Insomnia Security & OSINT MCP](https://github.com/vulnz/insomnia-mcp) - 160-tool security & OSINT MCP server including subdomain/CT discovery, full DNS/SPF/DMARC recon, passive OSINT, username/SOCMINT enrichment, and live secret validation (`https://mcp.insom.ai/mcp`, 50 free credits).
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
